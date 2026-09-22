@@ -1,0 +1,75 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+// Carga dinámica de todos los artículos ubicados en content/posts/
+const rawPosts = import.meta.glob('../../content/posts/*.md', { eager: true });
+const posts = Object.values(rawPosts).map((post: any) => {
+  const slug = post.frontmatter?.slug || post.file?.split('/')?.pop()?.replace('.md', '');
+  return {
+    ...post.frontmatter,
+    slug,
+    url: `/posts/${slug}`,
+  };
+});
+---
+
+<Layout title="Guías de Compra & Análisis Técnicos | Comparativas Reales">
+  <!-- Hero Section -->
+  <section class="mb-12 text-center sm:text-left border-b border-slate-200 pb-10">
+    <div class="inline-block px-3 py-1 mb-4 rounded-full bg-amber-100 text-amber-900 font-semibold text-xs tracking-wide uppercase">
+      Criterio técnico sin rodeos
+    </div>
+    <h1 class="text-3xl sm:text-5xl font-black text-slate-900 tracking-tight leading-tight mb-4">
+      Comparativas reales basadas en datos de laboratorio.
+    </h1>
+    <p class="text-base sm:text-lg text-slate-600 max-w-2xl leading-relaxed">
+      Analizamos especificaciones verídicas, pros y contras sin adornos publicitarios para que tomes la mejor decisión de compra en Amazon.
+    </p>
+  </section>
+
+  <!-- Listado de Artículos -->
+  <section>
+    <div class="flex items-center justify-between mb-8">
+      <h2 class="text-xl sm:text-2xl font-bold text-slate-900 tracking-tight">Últimos análisis publicados</h2>
+      <span class="text-sm font-medium text-slate-500">{posts.length} comparativas disponibles</span>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
+      {posts.map((post) => (
+        <article class="bg-white rounded-2xl border border-slate-200 shadow-xs hover:shadow-md transition-all duration-200 p-6 flex flex-col justify-between group hover:border-amber-400">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-3">
+              <span class="px-2.5 py-1 text-xs font-bold rounded-lg bg-slate-100 text-slate-700 uppercase tracking-wider">
+                {post.category || 'General'}
+              </span>
+              <time class="text-xs text-slate-400">
+                {post.pubDate ? new Date(post.pubDate).toLocaleDateString('es-ES', { year: 'numeric', month: 'short', day: 'numeric' }) : ''}
+              </time>
+            </div>
+
+            <h3 class="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-amber-600 transition-colors mb-2 leading-snug">
+              <a href={post.url}>
+                {post.title}
+              </a>
+            </h3>
+
+            <p class="text-sm text-slate-600 line-clamp-3 mb-6 leading-relaxed">
+              {post.description}
+            </p>
+          </div>
+
+          <div class="pt-4 border-t border-slate-100 flex items-center justify-between">
+            <span class="text-xs font-semibold text-slate-400">Tabla comparativa incluida</span>
+            <a 
+              href={post.url} 
+              class="inline-flex items-center gap-1 text-sm font-bold text-amber-600 group-hover:text-amber-700 hover:underline"
+            >
+              Leer análisis completo
+              <span class="transition-transform group-hover:translate-x-1">→</span>
+            </a>
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+</Layout>

@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  /* Estilo visual destacado y responsive para los enlaces de afiliado de Amazon */
+  .prose a[href*="amazon.es"] {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3.5 my-4 font-bold text-white bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 rounded-xl shadow-md hover:shadow-lg transition-all duration-200 no-underline text-base w-full sm:w-auto text-center border border-amber-600 active:scale-95;
+  }
+
+  .prose a[href*="amazon.es"]::after {
+    content: " ↗";
+    font-size: 1.15em;
+    line-height: 1;
+  }
+
+  /* Maquetación y scroll horizontal adaptativo para tablas comparativas en pantallas móviles */
+  .prose table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    font-size: 0.875rem;
+    border-radius: 0.75rem;
+    border: 1px solid #e2e8f0;
+  }
+
+  .prose thead th {
+    @apply bg-slate-900 text-white p-3.5 font-semibold text-xs uppercase tracking-wider border-b border-slate-700 whitespace-nowrap;
+  }
+
+  .prose tbody td {
+    @apply p-3.5 border-b border-slate-100 text-slate-700 whitespace-nowrap sm:whitespace-normal;
+  }
+
+  .prose tbody tr:nth-child(even) td {
+    @apply bg-slate-50/70;
+  }
+
+  .prose tbody tr:hover td {
+    @apply bg-amber-50/60;
+  }
+}
