@@ -54,6 +54,8 @@ El monitor incluye tecnología ELMB (Extreme Low Motion Blur) para insertar cuad
 - No permite activar de manera simultánea la sincronización adaptativa y la tecnología estroboscópica ELMB.
 - Altavoces integrados testimoniales, válidos para avisos del sistema pero carentes de graves para juegos.
 
+![Imagen del producto](https://m.media-amazon.com/images/P/B082NRKT4K.01._SCLZZZZZZZ_.jpg)
+
 [Consultar precio en Amazon](https://www.amazon.es/dp/B082NRKT4K?tag=compramaes09a-21)
 
 ---
@@ -87,6 +89,8 @@ En transiciones de imagen, el modo de overdrive 'Medium' mantiene las transicion
 - La saturación por defecto del 125% sRGB resalta mucho en videojuegos pero puede parecer artificial en tonos de piel si no se ajusta.
 - El diseño exterior en rojo y negro resulta llamativo y poco discreto para entornos de trabajo sobrios.
 - Los botones del menú OSD son duros de pulsar en comparación con los joysticks de navegación traseros.
+
+![Imagen del producto](https://m.media-amazon.com/images/P/B0F8NTYR6Y.01._SCLZZZZZZZ_.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F8NTYR6Y?tag=compramaes09a-21)
 
@@ -122,6 +126,8 @@ El recorte de costes se hace patente en dos puntos críticos: los tiempos de tra
 - Peana rígida de plástico sin ajuste de altura ni rotación.
 - Utiliza anclaje VESA de 75 × 75 mm en lugar del formato estándar de 100 × 100 mm, lo que obliga a verificar adaptadores en brazos universales.
 - Los ángulos de visión laterales degradan el contraste y la saturación más rápido que en un panel IPS.
+
+![Imagen del producto](https://m.media-amazon.com/images/P/B0DPHGY8VB.01._SCLZZZZZZZ_.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DPHGY8VB?tag=compramaes09a-21)
 

@@ -49,6 +49,8 @@ La electrónica interna integra un conversor analógico-digital de 16 bits y 48 
 - Su cápsula de condensador capta con crudeza el eco de salas sin tratamiento acústico.
 - Mantiene el puerto mini-USB, superado ampliamente por los estándares USB-C contemporáneos.
 
+![Imagen del producto](https://m.media-amazon.com/images/P/B00N1YPXW2.01._SCLZZZZZZZ_.jpg)
+
 [Consultar precio en Amazon](https://www.amazon.es/dp/B00N1YPXW2?tag=compramaes09a-21)
 
 ---
@@ -81,6 +83,8 @@ La contrapartida es su reducida sensibilidad de salida (-59 dB). Conectar el SM7
 - Inversión global elevada: al coste del micro hay que sumar cable XLR balanceado, brazo resistente y una interfaz potente o previo en línea (+120€ a +200€ adicionales).
 - Su peso exige un brazo articulado de gama media-alta con muelles de tensión regulable para evitar que se hunda durante la grabación.
 
+![Imagen del producto](https://m.media-amazon.com/images/P/B0002E4Z8M.01._SCLZZZZZZZ_.jpg)
+
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0002E4Z8M?tag=compramaes09a-21)
 
 ---
@@ -112,6 +116,8 @@ Para obtener un rendimiento aceptable del NW-700 es obligatorio conectarlo a una
 - No rinde a su nivel nominal con el cable jack incluido directo al PC; exige alimentación Phantom de +48V externa o interfaz USB.
 - La abrazadera del brazo y los muelles mecánicos son endebles y transmiten ruidos metálicos al moverse.
 - Agudos con tendencia a la sibilancia metálica y nulo rechazo de reflexiones en habitaciones sin acondicionamiento.
+
+![Imagen del producto](https://m.media-amazon.com/images/P/B07MSCRCVK.01._SCLZZZZZZZ_.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B07MSCRCVK?tag=compramaes09a-21)
 
