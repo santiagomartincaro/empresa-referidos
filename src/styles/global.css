@@ -4,7 +4,7 @@
 
 @layer base {
   html {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Outfit', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     scroll-behavior: smooth;
   }
 }
@@ -20,13 +20,13 @@
   /* 1. Capa de tipografía para imágenes de Amazon inyectadas en Markdown */
   .prose img[src*="m.media-amazon.com"],
   .prose img {
-    @apply mx-auto my-8 block rounded-2xl shadow-lg border border-slate-200/80 bg-white p-3 transition-transform duration-300 hover:scale-[1.02];
+    @apply mx-auto my-8 block rounded-2xl shadow-lg border border-emerald-100 bg-white p-3 transition-transform duration-300 hover:scale-[1.02];
     max-height: 420px;
     object-fit: contain;
-    box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.08), 0 8px 10px -6px rgba(15, 23, 42, 0.05);
+    box-shadow: 0 10px 25px -5px rgba(6, 78, 59, 0.08), 0 8px 10px -6px rgba(6, 78, 59, 0.04);
   }
 
-  /* 2. Botones 3D de compra de Amazon */
+  /* 2. REGLA ESTRICTA: Botones de compra de Amazon DEBEN SEGUIR SIENDO NARANJAS para máximo contraste y conversión */
   .prose a[href*="amazon.es"] {
     @apply inline-flex items-center justify-center gap-2 px-6 py-3.5 my-5 font-bold text-white bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 rounded-xl shadow-lg shadow-orange-500/50 hover:shadow-orange-500/70 hover:-translate-y-1 active:translate-y-0 active:shadow-md transition-all duration-200 no-underline text-base w-full sm:w-auto text-center border-b-4 border-orange-600/40 cursor-pointer;
     text-decoration: none !important;
@@ -39,12 +39,12 @@
     font-weight: 900;
   }
 
-  /* Botones dentro de tablas comparativas (formato compacto 3D) */
+  /* Botones dentro de tablas comparativas (formato compacto naranja 3D) */
   .prose table a[href*="amazon.es"] {
     @apply inline-flex items-center justify-center gap-1.5 px-3.5 py-2 my-1 text-xs font-bold text-white bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 rounded-lg shadow-md shadow-orange-500/40 hover:-translate-y-0.5 active:translate-y-0 transition-all duration-200 whitespace-nowrap border-b-2 border-orange-600/40 w-auto;
   }
 
-  /* 3. Tablas Comparativas con estilo de software moderno */
+  /* 3. Tablas Comparativas con estilo de software moderno y tonos verdosos */
   .prose table {
     display: block;
     width: 100%;
@@ -55,13 +55,13 @@
     margin: 2.5rem 0;
     font-size: 0.875rem;
     border-radius: 1rem;
-    border: 1px solid #e2e8f0;
-    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+    border: 1px solid #d1fae5;
+    box-shadow: 0 4px 6px -1px rgb(6 78 59 / 0.05), 0 2px 4px -2px rgb(6 78 59 / 0.05);
     background-color: #ffffff;
   }
 
   .prose thead th {
-    @apply bg-slate-900 text-white p-4 font-semibold text-xs uppercase tracking-wider border-b border-slate-800 whitespace-nowrap;
+    @apply bg-emerald-950 text-white p-4 font-semibold text-xs uppercase tracking-wider border-b border-emerald-900 whitespace-nowrap;
   }
 
   .prose thead th:first-child {
@@ -73,7 +73,7 @@
   }
 
   .prose tbody td {
-    @apply p-4 border-b border-slate-100 text-slate-700 whitespace-nowrap sm:whitespace-normal align-middle leading-relaxed;
+    @apply p-4 border-b border-emerald-50 text-emerald-950/80 whitespace-nowrap sm:whitespace-normal align-middle leading-relaxed;
   }
 
   .prose tbody tr:last-child td {
@@ -81,10 +81,10 @@
   }
 
   .prose tbody tr:nth-child(even) td {
-    @apply bg-slate-50;
+    @apply bg-emerald-50/40;
   }
 
   .prose tbody tr:hover td {
-    @apply bg-amber-50/50;
+    @apply bg-emerald-100/50;
   }
 }
