@@ -17,9 +17,9 @@ Un micrófono de condensador en un dormitorio sin acondicionar acústicamente re
 
 | Modelo | Tipo de cápsula | Conexión | Patrón polar | Sensibilidad / Ganancia requerida | Punto fuerte | Enlace |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Logitech G Blue Yeti** | Condensador (3 cápsulas de 14 mm) | USB mini-B | Cardioide, Bidireccional, Omnidireccional, Estéreo | -45 dBFS (Plug & Play) | Versatilidad de patrones polares y rapidez de uso | [Ver en Amazon](https://www.amazon.es/dp/B00N1YPXW2?tag=miweb-21) |
-| **Shure SM7B** | Dinámico (bobina móvil) | XLR analógico | Cardioide uniforme | -59 dB (Exige preamplificador ≥ +60 dB) | Rechazo acústico de sala y calidez vocal broadcast | [Ver en Amazon](https://www.amazon.es/dp/B0002EKEQS?tag=miweb-21) |
-| **Neewer NW-700** | Condensador de electreto (16 mm) | XLR a Jack 3.5mm / XLR | Cardioide | -34 dB (Requiere Phantom +48V para rendir) | Kit completo con brazo y araña a coste mínimo | [Ver en Amazon](https://www.amazon.es/dp/B01D4KYRYC?tag=miweb-21) |
+| **Logitech G Blue Yeti** | Condensador (3 cápsulas de 14 mm) | USB mini-B | Cardioide, Bidireccional, Omnidireccional, Estéreo | -45 dBFS (Plug & Play) | Versatilidad de patrones polares y rapidez de uso | [Ver en Amazon](https://www.amazon.es/dp/B00N1YPXW2?tag=compramaes09a-21) |
+| **Shure SM7B** | Dinámico (bobina móvil) | XLR analógico | Cardioide uniforme | -59 dB (Exige preamplificador ≥ +60 dB) | Rechazo acústico de sala y calidez vocal broadcast | [Ver en Amazon](https://www.amazon.es/dp/B0002E4Z8M?tag=compramaes09a-21) |
+| **Neewer NW-700** | Condensador de electreto (16 mm) | XLR a Jack 3.5mm / XLR | Cardioide | -34 dB (Requiere Phantom +48V para rendir) | Kit completo con brazo y araña a coste mínimo | [Ver en Amazon](https://www.amazon.es/dp/B07MSCRCVK?tag=compramaes09a-21) |
 
 ---
 
@@ -49,7 +49,7 @@ La electrónica interna integra un conversor analógico-digital de 16 bits y 48 
 - Su cápsula de condensador capta con crudeza el eco de salas sin tratamiento acústico.
 - Mantiene el puerto mini-USB, superado ampliamente por los estándares USB-C contemporáneos.
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B00N1YPXW2?tag=miweb-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B00N1YPXW2?tag=compramaes09a-21)
 
 ---
 
@@ -81,7 +81,7 @@ La contrapartida es su reducida sensibilidad de salida (-59 dB). Conectar el SM7
 - Inversión global elevada: al coste del micro hay que sumar cable XLR balanceado, brazo resistente y una interfaz potente o previo en línea (+120€ a +200€ adicionales).
 - Su peso exige un brazo articulado de gama media-alta con muelles de tensión regulable para evitar que se hunda durante la grabación.
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0002EKEQS?tag=miweb-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0002E4Z8M?tag=compramaes09a-21)
 
 ---
 
@@ -113,7 +113,7 @@ Para obtener un rendimiento aceptable del NW-700 es obligatorio conectarlo a una
 - La abrazadera del brazo y los muelles mecánicos son endebles y transmiten ruidos metálicos al moverse.
 - Agudos con tendencia a la sibilancia metálica y nulo rechazo de reflexiones en habitaciones sin acondicionamiento.
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B01D4KYRYC?tag=miweb-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B07MSCRCVK?tag=compramaes09a-21)
 
 ---
 

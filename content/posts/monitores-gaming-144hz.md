@@ -17,9 +17,9 @@ En este rango de precio la elección primordial es panel IPS frente a panel VA. 
 
 | Modelo | Tipo de panel | Refresco nativo | Brillo máximo | Ergonomía de peana | Punto fuerte | Enlace |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **ASUS TUF Gaming VG249Q** | IPS (23,8" FHD) | 144 Hz | 250 cd/m² | Altura (150 mm), pivote, giro e inclinación | La peana más completa y sólida en su gama | [Ver en Amazon](https://www.amazon.es/dp/B082NRKT4K?tag=miweb-21) |
-| **AOC Gaming 24G2SP** | IPS (23,8" FHD) | 165 Hz | 300 cd/m² | Altura (130 mm), pivote, giro e inclinación | Brillo superior y gama cromática extendida (125% sRGB) | [Ver en Amazon](https://www.amazon.es/dp/B08TXB25N5?tag=miweb-21) |
-| **KOORUI 24E4** | VA (24" FHD) | 165 Hz (DP) / 144 Hz (HDMI) | 250 cd/m² | Solo inclinación fija (-5° a +15°) | Contraste nativo 2000:1 al precio más agresivo | [Ver en Amazon](https://www.amazon.es/dp/B09N9J9N4L?tag=miweb-21) |
+| **ASUS TUF Gaming VG249Q** | IPS (23,8" FHD) | 144 Hz | 250 cd/m² | Altura (150 mm), pivote, giro e inclinación | La peana más completa y sólida en su gama | [Ver en Amazon](https://www.amazon.es/dp/B082NRKT4K?tag=compramaes09a-21) |
+| **AOC Gaming 24G2SP** | IPS (23,8" FHD) | 165 Hz | 300 cd/m² | Altura (130 mm), pivote, giro e inclinación | Brillo superior y gama cromática extendida (125% sRGB) | [Ver en Amazon](https://www.amazon.es/dp/B0F8NTYR6Y?tag=compramaes09a-21) |
+| **KOORUI 24E4** | VA (24" FHD) | 165 Hz (DP) / 144 Hz (HDMI) | 250 cd/m² | Solo inclinación fija (-5° a +15°) | Contraste nativo 2000:1 al precio más agresivo | [Ver en Amazon](https://www.amazon.es/dp/B0DPHGY8VB?tag=compramaes09a-21) |
 
 ---
 
@@ -54,7 +54,7 @@ El monitor incluye tecnología ELMB (Extreme Low Motion Blur) para insertar cuad
 - No permite activar de manera simultánea la sincronización adaptativa y la tecnología estroboscópica ELMB.
 - Altavoces integrados testimoniales, válidos para avisos del sistema pero carentes de graves para juegos.
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B082NRKT4K?tag=miweb-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B082NRKT4K?tag=compramaes09a-21)
 
 ---
 
@@ -88,7 +88,7 @@ En transiciones de imagen, el modo de overdrive 'Medium' mantiene las transicion
 - El diseño exterior en rojo y negro resulta llamativo y poco discreto para entornos de trabajo sobrios.
 - Los botones del menú OSD son duros de pulsar en comparación con los joysticks de navegación traseros.
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B08TXB25N5?tag=miweb-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0F8NTYR6Y?tag=compramaes09a-21)
 
 ---
 
@@ -123,7 +123,7 @@ El recorte de costes se hace patente en dos puntos críticos: los tiempos de tra
 - Utiliza anclaje VESA de 75 × 75 mm en lugar del formato estándar de 100 × 100 mm, lo que obliga a verificar adaptadores en brazos universales.
 - Los ángulos de visión laterales degradan el contraste y la saturación más rápido que en un panel IPS.
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B09N9J9N4L?tag=miweb-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0DPHGY8VB?tag=compramaes09a-21)
 
 ---
 

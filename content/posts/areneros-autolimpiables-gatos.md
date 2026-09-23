@@ -18,8 +18,8 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
 | **Neakasa M1 Lite (Diseño Abierto)** | Diseño: Cesta superior abierta antipánico | Estructura abierta que no produce sensación de claustrofobia a gatos miedosos y sistema de sellado de bolsas sin contacto manual | [Ver en Amazon](https://www.amazon.es/dp/B0HGRSHK91?tag=compramaes09a-21) |
-| **PETKIT Pura MAX (Cilindro de 76L)** | Volumen interior: 76 L | Cilindro de gran volumen interior apto para gatos de hasta 8 kg y pulverizador desodorizante automático que neutraliza el amoníaco | [Ver en Amazon](https://www.amazon.es/dp/B09WDPK3G4?tag=compramaes09a-21) |
-| **CATLINK Scooper Pro (Ecosistema Inteligente)** | Capacidad del depósito: 13 L | Algoritmo de seguimiento de salud que detecta anomalías urinarias por frecuencia y peso del animal con depósito de 13 litros | [Ver en Amazon](https://www.amazon.es/dp/B0BJDM59L2?tag=compramaes09a-21) |
+| **PETKIT Pura MAX (Cilindro de 76L)** | Volumen interior: 76 L | Cilindro de gran volumen interior apto para gatos de hasta 8 kg y pulverizador desodorizante automático que neutraliza el amoníaco | [Ver en Amazon](https://www.amazon.es/dp/B0D9QJZ7FG?tag=compramaes09a-21) |
+| **CATLINK Scooper Pro (Ecosistema Inteligente)** | Capacidad del depósito: 13 L | Algoritmo de seguimiento de salud que detecta anomalías urinarias por frecuencia y peso del animal con depósito de 13 litros | [Ver en Amazon](https://www.amazon.es/dp/B0GTYCSCWT?tag=compramaes09a-21) |
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Borde de entrada ligeramente alto que puede exigir rampa para gatos de patas cortas o ancianos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B09WDPK3G4.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0D9QJZ7FG.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B09WDPK3G4?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0D9QJZ7FG?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Exige recambios específicos de bolsas de carbón para mantener el sellado total de olores.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0BJDM59L2.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0GTYCSCWT.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0BJDM59L2?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0GTYCSCWT?tag=compramaes09a-21)
 
 ---
 

@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **FREE VILLAGE Máquina de Hielo Rápida** | Capacidad: 12 kg en 24 horas | Produce 9 cubitos huecos en apenas 6 a 8 minutos y cuenta con ciclo de autolimpieza interna accionado por un solo botón | [Ver en Amazon](https://www.amazon.es/dp/B09KNHM789?tag=compramaes09a-21) |
-| **Cecotec Chillin' Ice 1200 (12 kg/día)** | Potencia: 105 W de bajo consumo | Carcasa compacta con ventana transparente superior para supervisar el llenado sin abrir y consumo energético comedido | [Ver en Amazon](https://www.amazon.es/dp/B091J3Z8C8?tag=compramaes09a-21) |
-| **H.Koenig KB12 (Acero Inoxidable Compacta)** | Producción: 12 kg/día | Cuerpo en acero inoxidable cepillado resistente al uso continuado y panel LED de membrana con respuesta táctil directa | [Ver en Amazon](https://www.amazon.es/dp/B008K48M70?tag=compramaes09a-21) |
+| **FREE VILLAGE Máquina de Hielo Rápida** | Capacidad: 12 kg en 24 horas | Produce 9 cubitos huecos en apenas 6 a 8 minutos y cuenta con ciclo de autolimpieza interna accionado por un solo botón | [Ver en Amazon](https://www.amazon.es/dp/B0CLC7ZXRY?tag=compramaes09a-21) |
+| **Cecotec Chillin' Ice 1200 (12 kg/día)** | Potencia: 105 W de bajo consumo | Carcasa compacta con ventana transparente superior para supervisar el llenado sin abrir y consumo energético comedido | [Ver en Amazon](https://www.amazon.es/dp/B0BPZDX5RP?tag=compramaes09a-21) |
+| **H.Koenig KB12 (Acero Inoxidable Compacta)** | Producción: 12 kg/día | Cuerpo en acero inoxidable cepillado resistente al uso continuado y panel LED de membrana con respuesta táctil directa | [Ver en Amazon](https://www.amazon.es/dp/B074ZS8BKM?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - La cesta interior no tiene función de congelación activa, por lo que el hielo debe consumirse o transferirse al congelador.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B09KNHM789.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0CLC7ZXRY.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B09KNHM789?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0CLC7ZXRY?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - El zumbido del compresor es audible si se ubica en salones silenciosos durante la noche.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B091J3Z8C8.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0BPZDX5RP.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B091J3Z8C8?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0BPZDX5RP?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Cesta de recolección de 0,8 kg que se colmata rápido en celebraciones de más de 6 personas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B008K48M70.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B074ZS8BKM.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B008K48M70?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B074ZS8BKM?tag=compramaes09a-21)
 
 ---
 

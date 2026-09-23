@@ -19,7 +19,7 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 | :--- | :--- | :--- | :--- |
 | **SIHOO M57 (Malla Integral Transpirable)** | Material: Malla de poliéster de alta resistencia | Respaldo y asiento en malla técnica elástica que evita la acumulación térmica y soporte lumbar bidireccional muy firme | [Ver en Amazon](https://www.amazon.es/dp/B07BDFW1Y7?tag=compramaes09a-21) |
 | **SIHOO M18 (Espuma de Alta Densidad + Soporte)** | Asiento: Espuma de alta densidad moldeada | Cojín de espuma conformada en W que distribuye la presión de las caderas durante más de 8 horas seguidas y precio muy competitivo | [Ver en Amazon](https://www.amazon.es/dp/B07GNDDNMW?tag=compramaes09a-21) |
-| **Hbada E3 (Soporte Lumbar Flotante 3 Zonas)** | Tecnología lumbar: Sistema de soporte dinámico T-Shape | Soporte lumbar flotante que acompaña los movimientos dorsales en cualquier ángulo de reclinación, reduciendo la fatiga lumbar | [Ver en Amazon](https://www.amazon.es/dp/B0BYDCQ958?tag=compramaes09a-21) |
+| **Hbada E3 (Soporte Lumbar Flotante 3 Zonas)** | Tecnología lumbar: Sistema de soporte dinámico T-Shape | Soporte lumbar flotante que acompaña los movimientos dorsales en cualquier ángulo de reclinación, reduciendo la fatiga lumbar | [Ver en Amazon](https://www.amazon.es/dp/B0CH7RBQQ7?tag=compramaes09a-21) |
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Dimensiones considerables de la base que demandan espacio despejado en despachos pequeños.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0BYDCQ958.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0CH7RBQQ7.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0BYDCQ958?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0CH7RBQQ7?tag=compramaes09a-21)
 
 ---
 

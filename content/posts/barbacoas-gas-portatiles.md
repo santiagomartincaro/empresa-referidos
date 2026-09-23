@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Weber Q1200 (El Icono de Hierro Fundido Esmaltado)** | Quemador: Acero inoxidable de 2,49 kW de potencia | Parrillas de hierro fundido vitrificado que retienen el calor de forma descomunal para marcar la carne con rayas perfectas y mesas laterales plegables | [Ver en Amazon](https://www.amazon.es/dp/B00KTY5R1Y?tag=compramaes09a-21) |
-| **Campingaz Party Grill 400 (La Más Polivalente para Camping)** | Potencia: 2000 W regulable con gas butano o propano | Equipo multiusos que sirve como hornillo convencional, plancha lisa, parrilla estriada y wok simplemente invirtiendo la tapa | [Ver en Amazon](https://www.amazon.es/dp/B01BM67N0W?tag=compramaes09a-21) |
-| **Char-Broil Grill2Go X200 (Tecnología Infrarroja TRU-Infrared)** | Tecnología: TRU-Infrared que cocina sin quemar con fuego directo | Sistema infrarrojo que distribuye el calor uniformemente sin llamaradas repentinas por goteo de grasa y estructura de aluminio fundido a prueba de golpes | [Ver en Amazon](https://www.amazon.es/dp/B00BC3UR98?tag=compramaes09a-21) |
+| **Weber Q1200 (El Icono de Hierro Fundido Esmaltado)** | Quemador: Acero inoxidable de 2,49 kW de potencia | Parrillas de hierro fundido vitrificado que retienen el calor de forma descomunal para marcar la carne con rayas perfectas y mesas laterales plegables | [Ver en Amazon](https://www.amazon.es/dp/B00IAQ14ME?tag=compramaes09a-21) |
+| **Campingaz Party Grill 400 (La Más Polivalente para Camping)** | Potencia: 2000 W regulable con gas butano o propano | Equipo multiusos que sirve como hornillo convencional, plancha lisa, parrilla estriada y wok simplemente invirtiendo la tapa | [Ver en Amazon](https://www.amazon.es/dp/B01AT6LRQ0?tag=compramaes09a-21) |
+| **Char-Broil Grill2Go X200 (Tecnología Infrarroja TRU-Infrared)** | Tecnología: TRU-Infrared que cocina sin quemar con fuego directo | Sistema infrarrojo que distribuye el calor uniformemente sin llamaradas repentinas por goteo de grasa y estructura de aluminio fundido a prueba de golpes | [Ver en Amazon](https://www.amazon.es/dp/B00Q4XSK1S?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Peso de 14 kg que la sitúa más como barbacoa de balcón, terraza o maletero que para llevar a cuestas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B00KTY5R1Y.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B00IAQ14ME.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B00KTY5R1Y?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B00IAQ14ME?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - No tiene la potencia de calor de sellado para chuletones gruesos que ofrece una parrilla de hierro fundido masivo.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B01BM67N0W.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B01AT6LRQ0.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B01BM67N0W?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B01AT6LRQ0?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - La placa difusora infrarroja requiere rasquetearla con el cepillo especial incluido tras cada uso.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B00BC3UR98.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B00Q4XSK1S.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B00BC3UR98?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B00Q4XSK1S?tag=compramaes09a-21)
 
 ---
 

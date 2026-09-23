@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Creality Ender 3 V3 SE (Nivelación Automática Real)** | Velocidad: Hasta 250 mm/s con aceleración de 2500 mm/s² | Montaje en 20 minutos, sensor de nivelación automática CR-Touch con calibración de Z-offset por galga extensiométrica y extrusor directo Sprite | [Ver en Amazon](https://www.amazon.es/dp/B0CF1N5Z5G?tag=compramaes09a-21) |
-| **Anycubic Kobra 2 Neo (Económica y Veloz)** | Velocidad máxima: 250 mm/s (recomendada 150 mm/s) | El precio de entrada más bajo con sistema LeviQ 2 | [Ver en Amazon](https://www.amazon.es/dp/B0CH9TK5L5?tag=compramaes09a-21) |
-| **Elegoo Neptune 4 Pro (Firmware Klipper a 500 mm/s)** | Velocidad: Hasta 500 mm/s con aceleración de 12.000 mm/s² | Equipada de fábrica con el sistema Klipper para imprimir a velocidades supersónicas de hasta 500 mm/s con refrigeración auxiliar masiva | [Ver en Amazon](https://www.amazon.es/dp/B0CBLQ8N5K?tag=compramaes09a-21) |
+| **Creality Ender 3 V3 SE (Nivelación Automática Real)** | Velocidad: Hasta 250 mm/s con aceleración de 2500 mm/s² | Montaje en 20 minutos, sensor de nivelación automática CR-Touch con calibración de Z-offset por galga extensiométrica y extrusor directo Sprite | [Ver en Amazon](https://www.amazon.es/dp/B0FZHWM8YR?tag=compramaes09a-21) |
+| **Anycubic Kobra 2 Neo (Económica y Veloz)** | Velocidad máxima: 250 mm/s (recomendada 150 mm/s) | El precio de entrada más bajo con sistema LeviQ 2 | [Ver en Amazon](https://www.amazon.es/dp/B0GQ95W1FL?tag=compramaes09a-21) |
+| **Elegoo Neptune 4 Pro (Firmware Klipper a 500 mm/s)** | Velocidad: Hasta 500 mm/s con aceleración de 12.000 mm/s² | Equipada de fábrica con el sistema Klipper para imprimir a velocidades supersónicas de hasta 500 mm/s con refrigeración auxiliar masiva | [Ver en Amazon](https://www.amazon.es/dp/B0CB6C2QMB?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - La base flexible es de lámina PC básica (conviene actualizar a lámina PEI rugosa para filamentos técnicos).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CF1N5Z5G.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0FZHWM8YR.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0CF1N5Z5G?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0FZHWM8YR?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - La pantalla se maneja mediante rueda giratoria en lugar de panel táctil a color.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CH9TK5L5.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0GQ95W1FL.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0CH9TK5L5?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0GQ95W1FL?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Curva de aprendizaje del firmware Klipper ligeramente más avanzada si quieres modificar parámetros de configuración internos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CBLQ8N5K.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0CB6C2QMB.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0CBLQ8N5K?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0CB6C2QMB?tag=compramaes09a-21)
 
 ---
 

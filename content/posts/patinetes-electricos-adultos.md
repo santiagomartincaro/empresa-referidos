@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Xiaomi Electric Scooter 4 Pro (Neumáticos Tubeless 10 pulgadas)** | Motor: 350 W nominales (pico de 700 W) | Neumáticos autosellantes de 10 pulgadas con gel antipinchazos, chasis de aluminio aeroespacial muy rígido y frenos de disco de doble pastilla | [Ver en Amazon](https://www.amazon.es/dp/B0B68Y574V?tag=compramaes09a-21) |
-| **Cecotec Bongo Serie A (Batería Extraíble Intercambiable)** | Potencia: 700 W de potencia máxima para superar cuestas | Batería desmontable que puedes subir a cargar a casa o a la oficina como si fuera una botella de agua, duplicando la autonomía si llevas otra | [Ver en Amazon](https://www.amazon.es/dp/B07VGR8R4C?tag=compramaes09a-21) |
-| **Segway-Ninebot MAX G2 (Doble Suspensión Hidráulica)** | Motor: Tracción trasera con pico de 900 W | Suspensión delantera hidráulica y doble trasera ajustable que absorben cualquier adoquín o bache con una suavidad de marcha única | [Ver en Amazon](https://www.amazon.es/dp/B0C27TK69R?tag=compramaes09a-21) |
+| **Xiaomi Electric Scooter 4 Pro (Neumáticos Tubeless 10 pulgadas)** | Motor: 350 W nominales (pico de 700 W) | Neumáticos autosellantes de 10 pulgadas con gel antipinchazos, chasis de aluminio aeroespacial muy rígido y frenos de disco de doble pastilla | [Ver en Amazon](https://www.amazon.es/dp/B0B7XYXVZ4?tag=compramaes09a-21) |
+| **Cecotec Bongo Serie A (Batería Extraíble Intercambiable)** | Potencia: 700 W de potencia máxima para superar cuestas | Batería desmontable que puedes subir a cargar a casa o a la oficina como si fuera una botella de agua, duplicando la autonomía si llevas otra | [Ver en Amazon](https://www.amazon.es/dp/B0BQ1DYW4W?tag=compramaes09a-21) |
+| **Segway-Ninebot MAX G2 (Doble Suspensión Hidráulica)** | Motor: Tracción trasera con pico de 900 W | Suspensión delantera hidráulica y doble trasera ajustable que absorben cualquier adoquín o bache con una suavidad de marcha única | [Ver en Amazon](https://www.amazon.es/dp/B0F4XGBYRR?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Peso de 17 kg que se hace notar al subirlo por escaleras sin ascensor.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0B68Y574V.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0B7XYXVZ4.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0B68Y574V?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0B7XYXVZ4?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Ruedas de 8,5 pulgadas algo más duras ante baches pronunciados que las de 10 pulgadas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07VGR8R4C.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0BQ1DYW4W.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B07VGR8R4C?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0BQ1DYW4W?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Es el patinete más pesado del trío (24 kg), pensado para rodar más que para transportarlo en brazos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0C27TK69R.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0F4XGBYRR.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0C27TK69R?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0F4XGBYRR?tag=compramaes09a-21)
 
 ---
 

@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Logitech G915 LIGHTSPEED (Perfil Bajo Inalámbrico)** | Interruptores: GL mecánicos de perfil bajo (Lineal, Táctil o Clicky) | Diseño ultrafino en aluminio cepillado de solo 22 mm que no exige reposamuñecas, conectividad Lightspeed sin latencia y rueda de volumen metálica exquisita | [Ver en Amazon](https://www.amazon.es/dp/B07W4DGBQ8?tag=compramaes09a-21) |
-| **Keychron K2 V2 (El Favorito de Programadores y Mac/PC)** | Formato: 75% compacto con 84 teclas | Formato compacto al 75% con excelente tacto de tecla, compatibilidad total con teclas para Mac y Windows en la caja y batería de 4000 mAh masiva | [Ver en Amazon](https://www.amazon.es/dp/B0875X3V5B?tag=compramaes09a-21) |
-| **Corsair K70 PRO Mini Wireless (Formato 60% Hot-Swap)** | Formato: 60% ultra transportable | Permite cambiar los interruptores mecánicos en caliente (Hot-Swap) sin soldar para personalizar cada tecla a tu gusto y polling rate de 8000 Hz por cable | [Ver en Amazon](https://www.amazon.es/dp/B0B551Y7W6?tag=compramaes09a-21) |
+| **Logitech G915 LIGHTSPEED (Perfil Bajo Inalámbrico)** | Interruptores: GL mecánicos de perfil bajo (Lineal, Táctil o Clicky) | Diseño ultrafino en aluminio cepillado de solo 22 mm que no exige reposamuñecas, conectividad Lightspeed sin latencia y rueda de volumen metálica exquisita | [Ver en Amazon](https://www.amazon.es/dp/B0D9VPB7J8?tag=compramaes09a-21) |
+| **Keychron K2 V2 (El Favorito de Programadores y Mac/PC)** | Formato: 75% compacto con 84 teclas | Formato compacto al 75% con excelente tacto de tecla, compatibilidad total con teclas para Mac y Windows en la caja y batería de 4000 mAh masiva | [Ver en Amazon](https://www.amazon.es/dp/B0H5JNDS8T?tag=compramaes09a-21) |
+| **Corsair K70 PRO Mini Wireless (Formato 60% Hot-Swap)** | Formato: 60% ultra transportable | Permite cambiar los interruptores mecánicos en caliente (Hot-Swap) sin soldar para personalizar cada tecla a tu gusto y polling rate de 8000 Hz por cable | [Ver en Amazon](https://www.amazon.es/dp/B0B64L8SH9?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Mantiene el conector de carga Micro-USB en sus revisiones clásicas y precio premium.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07W4DGBQ8.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0D9VPB7J8.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B07W4DGBQ8?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0D9VPB7J8?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Perfil de altura elevado que hace muy recomendable utilizar un reposamuñecas acolchado.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0875X3V5B.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0H5JNDS8T.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0875X3V5B?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0H5JNDS8T?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - La ausencia de flechas de dirección dedicadas exige acostumbrarse a usar combinaciones con tecla Fn.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0B551Y7W6.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0B64L8SH9.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0B551Y7W6?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0B64L8SH9?tag=compramaes09a-21)
 
 ---
 

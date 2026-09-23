@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Bosch Professional GSB 18V-28 (Línea Azul Profesional)** | Par de giro: 63 Nm (duro) / 28 Nm (blando) | Portabrocas metálico de 13 mm de alta resistencia, embrague de 20+2 ajustes de par y sistema Electronic Motor Protection que evita quemar el inducido | [Ver en Amazon](https://www.amazon.es/dp/B072LXJ7W7?tag=compramaes09a-21) |
-| **DeWalt DCD796D2-QW (Motor Brushless de 70 Nm)** | Motor: Brushless sin escobillas de 460 W de potencia útil | Motor sin escobillas (Brushless) de alto rendimiento energético con 70 Nm de fuerza y luz LED frontal ultra potente de 3 posiciones para trabajar en huecos oscuros | [Ver en Amazon](https://www.amazon.es/dp/B018265O2U?tag=compramaes09a-21) |
-| **Makita DHP453FX13 (Kit Completo con Maletín de Accesorios)** | Par de apriete: 42 Nm | Kit extraordinario de iniciación que incluye maletín de aluminio con brocas, puntas y batería de 3 | [Ver en Amazon](https://www.amazon.es/dp/B0892D4K9R?tag=compramaes09a-21) |
+| **Bosch Professional GSB 18V-28 (Línea Azul Profesional)** | Par de giro: 63 Nm (duro) / 28 Nm (blando) | Portabrocas metálico de 13 mm de alta resistencia, embrague de 20+2 ajustes de par y sistema Electronic Motor Protection que evita quemar el inducido | [Ver en Amazon](https://www.amazon.es/dp/B07Q3Q34YB?tag=compramaes09a-21) |
+| **DeWalt DCD796D2-QW (Motor Brushless de 70 Nm)** | Motor: Brushless sin escobillas de 460 W de potencia útil | Motor sin escobillas (Brushless) de alto rendimiento energético con 70 Nm de fuerza y luz LED frontal ultra potente de 3 posiciones para trabajar en huecos oscuros | [Ver en Amazon](https://www.amazon.es/dp/B01BU0GIGS?tag=compramaes09a-21) |
+| **Makita DHP453FX13 (Kit Completo con Maletín de Accesorios)** | Par de apriete: 42 Nm | Kit extraordinario de iniciación que incluye maletín de aluminio con brocas, puntas y batería de 3 | [Ver en Amazon](https://www.amazon.es/dp/B00HW2SQP0?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Las versiones en maletín L-BOXX con baterías ProCORE suponen una inversión superior a las herramientas de bricolaje verde.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B072LXJ7W7.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B07Q3Q34YB.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B072LXJ7W7?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B07Q3Q34YB?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - El interruptor de velocidad variable es muy sensible y requiere tacto suave en los primeros milímetros de atornillado.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B018265O2U.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B01BU0GIGS.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B018265O2U?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B01BU0GIGS?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Motor con escobillas tradicionales que ofrece un par algo menor (42 Nm) que los modelos brushless más modernos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0892D4K9R.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B00HW2SQP0.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0892D4K9R?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B00HW2SQP0?tag=compramaes09a-21)
 
 ---
 

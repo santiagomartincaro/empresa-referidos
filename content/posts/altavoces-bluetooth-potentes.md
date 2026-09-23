@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **JBL Charge 5 (Graves Profundos y Batería Powerbank)** | Potencia: 40 W RMS (30 W woofer + 10 W tweeter) | Tweeter independiente y altavoz de graves con radiadores pasivos que llenan cualquier jardín con pegada limpia, además de cargar tu móvil por USB | [Ver en Amazon](https://www.amazon.es/dp/B08X4JNZ7H?tag=compramaes09a-21) |
-| **JBL Xtreme 3 (Sonido Envolvente de 100W con Correa)** | Potencia: 100 W RMS biamplificado | Cuatro transductores activos que entregan volumen de fiesta sin distorsionar y correa de transporte con abridor de botellas integrado | [Ver en Amazon](https://www.amazon.es/dp/B08KG2V4G7?tag=compramaes09a-21) |
-| **Marshall Emberton II (Sonido Espacial 360° True Stereophonic)** | Audio: Sonido 360° True Stereophonic (2x 10 W Clase D) | Estética vintage icónica con rejilla metálica, botón multidireccional de latón y sonido multidireccional que suena idéntico por delante y por detrás | [Ver en Amazon](https://www.amazon.es/dp/B0B2987H69?tag=compramaes09a-21) |
+| **JBL Charge 5 (Graves Profundos y Batería Powerbank)** | Potencia: 40 W RMS (30 W woofer + 10 W tweeter) | Tweeter independiente y altavoz de graves con radiadores pasivos que llenan cualquier jardín con pegada limpia, además de cargar tu móvil por USB | [Ver en Amazon](https://www.amazon.es/dp/B08VDNCZT9?tag=compramaes09a-21) |
+| **JBL Xtreme 3 (Sonido Envolvente de 100W con Correa)** | Potencia: 100 W RMS biamplificado | Cuatro transductores activos que entregan volumen de fiesta sin distorsionar y correa de transporte con abridor de botellas integrado | [Ver en Amazon](https://www.amazon.es/dp/B08FB4RSDJ?tag=compramaes09a-21) |
+| **Marshall Emberton II (Sonido Espacial 360° True Stereophonic)** | Audio: Sonido 360° True Stereophonic (2x 10 W Clase D) | Estética vintage icónica con rejilla metálica, botón multidireccional de latón y sonido multidireccional que suena idéntico por delante y por detrás | [Ver en Amazon](https://www.amazon.es/dp/B09XXW54QG?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Carece de micrófono para manos libres y no cuenta con entrada auxiliar jack de 3,5 mm.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B08X4JNZ7H.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B08VDNCZT9.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B08X4JNZ7H?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B08VDNCZT9?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Peso de 1,9 kg que exige llevarlo colgado en bandolera.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B08KG2V4G7.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B08FB4RSDJ.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B08KG2V4G7?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B08FB4RSDJ?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Perfil sonoro más neutral orientado al rock y acústico que a los subgraves de música electrónica discotequera.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0B2987H69.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B09XXW54QG.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0B2987H69?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B09XXW54QG?tag=compramaes09a-21)
 
 ---
 

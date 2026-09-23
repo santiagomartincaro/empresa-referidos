@@ -17,7 +17,7 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **BLUETTI EB3A (268Wh / 600W)** | Capacidad: 268 Wh | Células LiFePO4 con más de 2 | [Ver en Amazon](https://www.amazon.es/dp/B0B24R4V4P?tag=compramaes09a-21) |
+| **BLUETTI EB3A (268Wh / 600W)** | Capacidad: 268 Wh | Células LiFePO4 con más de 2 | [Ver en Amazon](https://www.amazon.es/dp/B0F9FN228S?tag=compramaes09a-21) |
 | **EcoFlow RIVER 2 (256Wh / 300W)** | Capacidad: 256 Wh | Ultra ligero con solo 3,5 kg de peso, control total vía app con WiFi/Bluetooth y modo X-Boost para equipos de hasta 600W | [Ver en Amazon](https://www.amazon.es/dp/B0BFQC1CNQ?tag=compramaes09a-21) |
 | **EcoFlow DELTA 2 (1024Wh / 1800W)** | Capacidad: 1.024 Wh ampliable con batería adicional | Potencia masiva para alimentar el 90% de electrodomésticos en cortes de luz o furgonetas camper, ampliable hasta 3kWh | [Ver en Amazon](https://www.amazon.es/dp/B0B9XB57XM?tag=compramaes09a-21) |
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Ventilador audible bajo demanda constante y capacidad ajustada para conectar electrodomésticos térmicos de alto consumo.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0B24R4V4P.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0F9FN228S.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0B24R4V4P?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0F9FN228S?tag=compramaes09a-21)
 
 ---
 

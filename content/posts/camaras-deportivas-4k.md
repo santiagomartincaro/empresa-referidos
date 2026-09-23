@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **GoPro HERO12 Black (Estabilización HyperSmooth 6.0)** | Resolución: Vídeo 5.3K a 60 fps y 4K a 120 fps | Estabilización de vídeo insuperable con bloqueo de horizonte de 360 grados, grabación en formato vertical 9:16 sin rotar la cámara y audio Bluetooth para micrófonos inalámbricos | [Ver en Amazon](https://www.amazon.es/dp/B0CGD62M5C?tag=compramaes09a-21) |
-| **DJI Osmo Action 4 (Sensor Grande de 1/1.3 Pulgadas)** | Sensor: CMOS de 1/1.3 pulgadas con apertura f/2.8 | Sensor de 1/1 | [Ver en Amazon](https://www.amazon.es/dp/B0CBLN628Y?tag=compramaes09a-21) |
-| **Insta360 Ace Pro (Óptica Leica y Pantalla Abatible)** | Resolución: Grabación en 8K a 24 fps y 4K a 120 fps | Pantalla táctil abatible de 2,4 pulgadas perfecta para vlogging, óptica diseñada junto a Leica y chip de inteligencia artificial para reducción de ruido nocturno PureVideo | [Ver en Amazon](https://www.amazon.es/dp/B0CNJTTQ9K?tag=compramaes09a-21) |
+| **GoPro HERO12 Black (Estabilización HyperSmooth 6.0)** | Resolución: Vídeo 5.3K a 60 fps y 4K a 120 fps | Estabilización de vídeo insuperable con bloqueo de horizonte de 360 grados, grabación en formato vertical 9:16 sin rotar la cámara y audio Bluetooth para micrófonos inalámbricos | [Ver en Amazon](https://www.amazon.es/dp/B0CF3VVTLG?tag=compramaes09a-21) |
+| **DJI Osmo Action 4 (Sensor Grande de 1/1.3 Pulgadas)** | Sensor: CMOS de 1/1.3 pulgadas con apertura f/2.8 | Sensor de 1/1 | [Ver en Amazon](https://www.amazon.es/dp/B0C783YNW7?tag=compramaes09a-21) |
+| **Insta360 Ace Pro (Óptica Leica y Pantalla Abatible)** | Resolución: Grabación en 8K a 24 fps y 4K a 120 fps | Pantalla táctil abatible de 2,4 pulgadas perfecta para vlogging, óptica diseñada junto a Leica y chip de inteligencia artificial para reducción de ruido nocturno PureVideo | [Ver en Amazon](https://www.amazon.es/dp/B0CKML3W6R?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - El rendimiento en escenas nocturnas o con poca iluminación decae frente a sensores de mayor tamaño físico.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CGD62M5C.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0CF3VVTLG.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0CGD62M5C?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0CF3VVTLG?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Resolución máxima de 4K frente a los 5.3K de GoPro (aunque con mejor rango dinámico gracias al perfil D-Log M de 10 bits).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CBLN628Y.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0C783YNW7.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0CBLN628Y?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0C783YNW7?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Cuerpo ligeramente más grueso y pesado debido a la bisagra de la pantalla basculante.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CNJTTQ9K.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0CKML3W6R.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0CNJTTQ9K?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0CKML3W6R?tag=compramaes09a-21)
 
 ---
 

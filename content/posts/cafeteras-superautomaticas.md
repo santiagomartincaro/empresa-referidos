@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **De'Longhi Magnifica S (El Superventas Histórico)** | Presión: 15 bares | Molinillo cónico de acero calibrable en 13 niveles, grupo infusor extraíble muy fácil de limpiar bajo el grifo y fiabilidad mecánica legendaria | [Ver en Amazon](https://www.amazon.es/dp/B00400OM62?tag=compramaes09a-21) |
-| **Philips Serie 2200 (Molinillo 100% Cerámico)** | Molinillo: Cerámico con 12 grados de molienda | Molinillos cerámicos que no calientan el grano durante la molienda prolongando el aroma y filtro AquaClean que reduce descalcificaciones | [Ver en Amazon](https://www.amazon.es/dp/B07MMS5WJ9?tag=compramaes09a-21) |
-| **Melitta Caffeo Solo (Diseño Ultracompacto de 20 cm)** | Ancho: Solo 20 cm (la más estrecha del mercado) | Anchura de solo 20 cm ideal para cocinas pequeñas, centrada exclusivamente en extraer espressos y cafés largos con crema densa | [Ver en Amazon](https://www.amazon.es/dp/B00342UDEY?tag=compramaes09a-21) |
+| **De'Longhi Magnifica S (El Superventas Histórico)** | Presión: 15 bares | Molinillo cónico de acero calibrable en 13 niveles, grupo infusor extraíble muy fácil de limpiar bajo el grifo y fiabilidad mecánica legendaria | [Ver en Amazon](https://www.amazon.es/dp/B00400OMU0?tag=compramaes09a-21) |
+| **Philips Serie 2200 (Molinillo 100% Cerámico)** | Molinillo: Cerámico con 12 grados de molienda | Molinillos cerámicos que no calientan el grano durante la molienda prolongando el aroma y filtro AquaClean que reduce descalcificaciones | [Ver en Amazon](https://www.amazon.es/dp/B07MMSHC4R?tag=compramaes09a-21) |
+| **Melitta Caffeo Solo (Diseño Ultracompacto de 20 cm)** | Ancho: Solo 20 cm (la más estrecha del mercado) | Anchura de solo 20 cm ideal para cocinas pequeñas, centrada exclusivamente en extraer espressos y cafés largos con crema densa | [Ver en Amazon](https://www.amazon.es/dp/B00I3YL5T0?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - El espumador manual para leche requiere práctica para conseguir crema de barista y el frontal es de plástico.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B00400OM62.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B00400OMU0.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B00400OM62?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B00400OMU0?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Bandeja de goteo algo pequeña que exige vaciarla con frecuencia tras los enjuagues automáticos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07MMS5WJ9.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B07MMSHC4R.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B07MMS5WJ9?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B07MMSHC4R?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - No incluye tubo de vapor para espumar leche (orientada solo a café negro).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B00342UDEY.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B00I3YL5T0.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B00342UDEY?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B00I3YL5T0?tag=compramaes09a-21)
 
 ---
 

@@ -17,8 +17,8 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **LG UltraWide 34WP65C-B (34 pulgadas WQHD 160Hz)** | Diagonal: 34 pulgadas curvado (3440 x 1440 WQHD) | Relación 21:9 panorámica que equivale a dos pantallas de 24 pulgadas sin marco divisorio, con altavoces MaxxAudio de 7W muy nítidos | [Ver en Amazon](https://www.amazon.es/dp/B099RNW539?tag=compramaes09a-21) |
-| **Samsung Odyssey G5 34 pulgadas (Curvatura Inmersiva 1000R)** | Curvatura: 1000R ultra envolvente | Curvatura 1000R idéntica al campo visual humano que reduce la fatiga ocular en los laterales de la pantalla durante horas de trabajo | [Ver en Amazon](https://www.amazon.es/dp/B08SW45MV5?tag=compramaes09a-21) |
+| **LG UltraWide 34WP65C-B (34 pulgadas WQHD 160Hz)** | Diagonal: 34 pulgadas curvado (3440 x 1440 WQHD) | Relación 21:9 panorámica que equivale a dos pantallas de 24 pulgadas sin marco divisorio, con altavoces MaxxAudio de 7W muy nítidos | [Ver en Amazon](https://www.amazon.es/dp/B0CRGR3R96?tag=compramaes09a-21) |
+| **Samsung Odyssey G5 34 pulgadas (Curvatura Inmersiva 1000R)** | Curvatura: 1000R ultra envolvente | Curvatura 1000R idéntica al campo visual humano que reduce la fatiga ocular en los laterales de la pantalla durante horas de trabajo | [Ver en Amazon](https://www.amazon.es/dp/B0BRL8B5L5?tag=compramaes09a-21) |
 | **AOC Gaming CU34G2X/BK (Ergonomía Completa de Altura)** | Panel: VA 34 pulgadas 144 Hz con curvatura 1500R | Peana regulable en altura de 130 mm muy robusta y concentrador USB con 4 puertos integrados para conectar teclado y ratón directamente | [Ver en Amazon](https://www.amazon.es/dp/B082VTRPKJ?tag=compramaes09a-21) |
 
 ---
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - La curvatura 1800R es suave; en un monitor tan ancho algunos usuarios prefieren una curva más pronunciada para no girar tanto el cuello.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B099RNW539.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0CRGR3R96.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B099RNW539?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0CRGR3R96?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - La peana fija solo permite inclinación básica (requiere brazo VESA 75x75 para regular la altura ergonómica).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B08SW45MV5.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0BRL8B5L5.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B08SW45MV5?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0BRL8B5L5?tag=compramaes09a-21)
 
 ---
 

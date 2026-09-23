@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Garmin Forerunner 55 (El Compañero Ideal de Running)** | Autonomía: Hasta 14 días en modo reloj y 20 horas con GPS | Sugerencias de entrenamiento diarias personalizadas según tu fatiga y recuperación, pantalla transflectiva legible a pleno sol y botones físicos fiables con guantes o sudor | [Ver en Amazon](https://www.amazon.es/dp/B094595Z5F?tag=compramaes09a-21) |
-| **Polar Pacer Pro (Potenciómetro de Muñeca Integrado)** | Diseño: Bisel ultrafino con pantalla Gorilla Glass | Mide la potencia de carrera en vatios directamente desde la muñeca sin bandas en el pecho y pruebas de rendimiento de carrera y ciclismo muy rigurosas | [Ver en Amazon](https://www.amazon.es/dp/B09T3K5R9K?tag=compramaes09a-21) |
-| **COROS Pace 3 (Doble Frecuencia y Peso Pluma)** | GPS: Satélite de doble frecuencia (L1 + L5) | Receptor GPS de doble frecuencia con precisión milimétrica entre edificios o bosques y peso récord de solo 30 gramos con correa de nailon | [Ver en Amazon](https://www.amazon.es/dp/B0CB8T79Y5?tag=compramaes09a-21) |
+| **Garmin Forerunner 55 (El Compañero Ideal de Running)** | Autonomía: Hasta 14 días en modo reloj y 20 horas con GPS | Sugerencias de entrenamiento diarias personalizadas según tu fatiga y recuperación, pantalla transflectiva legible a pleno sol y botones físicos fiables con guantes o sudor | [Ver en Amazon](https://www.amazon.es/dp/B0953VK51D?tag=compramaes09a-21) |
+| **Polar Pacer Pro (Potenciómetro de Muñeca Integrado)** | Diseño: Bisel ultrafino con pantalla Gorilla Glass | Mide la potencia de carrera en vatios directamente desde la muñeca sin bandas en el pecho y pruebas de rendimiento de carrera y ciclismo muy rigurosas | [Ver en Amazon](https://www.amazon.es/dp/B09V7V45XG?tag=compramaes09a-21) |
+| **COROS Pace 3 (Doble Frecuencia y Peso Pluma)** | GPS: Satélite de doble frecuencia (L1 + L5) | Receptor GPS de doble frecuencia con precisión milimétrica entre edificios o bosques y peso récord de solo 30 gramos con correa de nailon | [Ver en Amazon](https://www.amazon.es/dp/B0CT3SGHXL?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Pantalla con resolución comedida sin panel táctil (enfocada 100% en rendimiento deportivo).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B094595Z5F.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0953VK51D.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B094595Z5F?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0953VK51D?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - La sincronización de rutas desde Komoot es algo menos intuitiva que el ecosistema de Garmin.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B09T3K5R9K.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B09V7V45XG.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B09T3K5R9K?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B09V7V45XG?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Plataforma de software enfocada puramente en atletas, con menos funciones de reloj inteligente convencional como respuestas de mensajería.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CB8T79Y5.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0CT3SGHXL.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B0CB8T79Y5?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0CT3SGHXL?tag=compramaes09a-21)
 
 ---
 

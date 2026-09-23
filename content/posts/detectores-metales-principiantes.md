@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Garrett ACE 300i (El Estándar de Iniciación)** | Bobina: ProFormance sumergible de 7x10 pulgadas | Sensibilidad de referencia con identificación digital de objetivos de 0 a 99 y frecuencia de 8 kHz optimizada para monedas y joyas | [Ver en Amazon](https://www.amazon.es/dp/B01DTR5C0W?tag=compramaes09a-21) |
-| **DR.ÖTEK MT-XR (Pantalla LCD Intuitiva)** | Bobina: Impermeable de 9,8 pulgadas | Pantalla LCD retroiluminada de fácil lectura que muestra la profundidad estimada y tipo de metal antes de excavar | [Ver en Amazon](https://www.amazon.es/dp/B083F8973T?tag=compramaes09a-21) |
-| **SUNPOW OT-MD02 (Bobina de Alta Sensibilidad 10 pulgadas)** | Bobina: 10 pulgadas IP68 impermeable | Bobina amplia de 10 pulgadas que cubre más terreno por barrido con balance de tierra ajustable para minimizar falsas alarmas | [Ver en Amazon](https://www.amazon.es/dp/B07Y7G9R6H?tag=compramaes09a-21) |
+| **Garrett ACE 300i (El Estándar de Iniciación)** | Bobina: ProFormance sumergible de 7x10 pulgadas | Sensibilidad de referencia con identificación digital de objetivos de 0 a 99 y frecuencia de 8 kHz optimizada para monedas y joyas | [Ver en Amazon](https://www.amazon.es/dp/B01FE6X4PM?tag=compramaes09a-21) |
+| **DR.ÖTEK MT-XR (Pantalla LCD Intuitiva)** | Bobina: Impermeable de 9,8 pulgadas | Pantalla LCD retroiluminada de fácil lectura que muestra la profundidad estimada y tipo de metal antes de excavar | [Ver en Amazon](https://www.amazon.es/dp/B08V8FDZMW?tag=compramaes09a-21) |
+| **SUNPOW OT-MD02 (Bobina de Alta Sensibilidad 10 pulgadas)** | Bobina: 10 pulgadas IP68 impermeable | Bobina amplia de 10 pulgadas que cubre más terreno por barrido con balance de tierra ajustable para minimizar falsas alarmas | [Ver en Amazon](https://www.amazon.es/dp/B0FHQ23FM6?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - La caja de control electrónica no es sumergible (solo la bobina de búsqueda tolera agua).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B01DTR5C0W.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B01FE6X4PM.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B01DTR5C0W?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B01FE6X4PM?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Sensibilidad ligeramente inferior en terrenos fuertemente mineralizados o arena de playa mojada con salitre.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B083F8973T.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B08V8FDZMW.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B083F8973T?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B08V8FDZMW?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Curva de aprendizaje del sonido multitonal que requiere práctica para distinguir tapones de coronas de monedas valiosas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07Y7G9R6H.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0FHQ23FM6.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B07Y7G9R6H?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0FHQ23FM6?tag=compramaes09a-21)
 
 ---
 

@@ -17,7 +17,7 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Sony WH-1000XM4 (El Rey del Plegado y la Comodidad)** | ANC: Procesador HD QN1 con sensor dual de ruido | Cancelación de ruido prodigiosa para aviones y trenes, sonido cálido y diseño plegable que cabe en un estuche rígido muy compacto | [Ver en Amazon](https://www.amazon.es/dp/B086673566?tag=compramaes09a-21) |
+| **Sony WH-1000XM4 (El Rey del Plegado y la Comodidad)** | ANC: Procesador HD QN1 con sensor dual de ruido | Cancelación de ruido prodigiosa para aviones y trenes, sonido cálido y diseño plegable que cabe en un estuche rígido muy compacto | [Ver en Amazon](https://www.amazon.es/dp/B08C7KCJF5?tag=compramaes09a-21) |
 | **Sony WH-1000XM5 (Micrófonos Avanzados y Diseño Minimalista)** | ANC: Dos procesadores y 8 micrófonos dedicados | Cancelación adaptativa que se calibra sola en tiempo real según el entorno y claridad en llamadas de voz insuperable con 8 micrófonos | [Ver en Amazon](https://www.amazon.es/dp/B09Y2MYL5C?tag=compramaes09a-21) |
 | **Bose QuietComfort 45 (El Más Cómodo para Jornadas de 8 Horas)** | Comodidad: Almohadillas lisas sin pliegues de sellado suave | Ergonomía de almohadillas legendaria sin sensación de presión en la coronilla y botones físicos mecánicos que evitan pulsaciones accidentales | [Ver en Amazon](https://www.amazon.es/dp/B098FKXT8L?tag=compramaes09a-21) |
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Micrófono para llamadas que capta algo de viento en exteriores en comparación con el modelo XM5.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B086673566.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B08C7KCJF5.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B086673566?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B08C7KCJF5?tag=compramaes09a-21)
 
 ---
 

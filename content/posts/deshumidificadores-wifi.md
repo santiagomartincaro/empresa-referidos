@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Cecotec BigDry 9000 Connected (20 L/día)** | Extracción: 20 L/24h | Capacidad de extracción de 20 litros cada 24 horas, tanque de 4,5 litros y automatización completa mediante app móvil | [Ver en Amazon](https://www.amazon.es/dp/B08NTR5K32?tag=compramaes09a-21) |
-| **Comfee Deshumidificador WiFi 16L** | Capacidad: 16 L diarios | Integración con asistentes Alexa y Google Home para encendido por humedad ambiental y modo secado de ropa muy eficiente | [Ver en Amazon](https://www.amazon.es/dp/B085GBS7R6?tag=compramaes09a-21) |
-| **Shinco Deshumidificador Inteligente 10L** | Extracción: 10 L/día | Chasis compacto de solo 37 dB muy discreto para dormitorios y función de apagado de pantalla en modo nocturno | [Ver en Amazon](https://www.amazon.es/dp/B08CK9M18F?tag=compramaes09a-21) |
+| **Cecotec BigDry 9000 Connected (20 L/día)** | Extracción: 20 L/24h | Capacidad de extracción de 20 litros cada 24 horas, tanque de 4,5 litros y automatización completa mediante app móvil | [Ver en Amazon](https://www.amazon.es/dp/B0CLB5YDHQ?tag=compramaes09a-21) |
+| **Comfee Deshumidificador WiFi 16L** | Capacidad: 16 L diarios | Integración con asistentes Alexa y Google Home para encendido por humedad ambiental y modo secado de ropa muy eficiente | [Ver en Amazon](https://www.amazon.es/dp/B0CMGMDS3W?tag=compramaes09a-21) |
+| **Shinco Deshumidificador Inteligente 10L** | Extracción: 10 L/día | Chasis compacto de solo 37 dB muy discreto para dormitorios y función de apagado de pantalla en modo nocturno | [Ver en Amazon](https://www.amazon.es/dp/B09Q24NSNK?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Consumo eléctrico algo más elevado a máximo caudal y volumen físico que requiere espacio de paso despejado.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B08NTR5K32.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0CLB5YDHQ.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B08NTR5K32?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0CLB5YDHQ?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Depósito de 3 litros que se llena rápidamente en sótanos o lavaderos con humedad superior al 80%.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B085GBS7R6.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0CMGMDS3W.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B085GBS7R6?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0CMGMDS3W?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Rendimiento óptimo acotado a habitaciones de hasta 25-30 m².
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B08CK9M18F.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B09Q24NSNK.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B08CK9M18F?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B09Q24NSNK?tag=compramaes09a-21)
 
 ---
 

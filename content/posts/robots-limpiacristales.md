@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Cecotec Conga Windroid 970 Wave (Diseño Cuadrado)** | Diseño: Cuadrado para cobertura angular completa | Forma cuadrada que limpia las esquinas con mucha mayor eficacia que los modelos redondos y pulverizador de agua frontal | [Ver en Amazon](https://www.amazon.es/dp/B07Y1Z7Y4R?tag=compramaes09a-21) |
-| **Hutt DDC55 (Ajuste de Succión Inteligente)** | Potencia: Succión variable automática de hasta 3800 Pa | Algoritmo de frecuencia que adapta la potencia de succión según el nivel de suciedad detectado y diseño circular de doble mopa | [Ver en Amazon](https://www.amazon.es/dp/B08M9J8P75?tag=compramaes09a-21) |
-| **AlfaBot X6 Robot Limpiacristales con Spray** | Pulverización: Rociador automático ultrasónico de agua | Depósito de agua integrado con rociador ultrasónico que humedece la mopa automáticamente sin tener que mojar el cristal a mano | [Ver en Amazon](https://www.amazon.es/dp/B08GFB6P9G?tag=compramaes09a-21) |
+| **Cecotec Conga Windroid 970 Wave (Diseño Cuadrado)** | Diseño: Cuadrado para cobertura angular completa | Forma cuadrada que limpia las esquinas con mucha mayor eficacia que los modelos redondos y pulverizador de agua frontal | [Ver en Amazon](https://www.amazon.es/dp/B0DLL7FQ3T?tag=compramaes09a-21) |
+| **Hutt DDC55 (Ajuste de Succión Inteligente)** | Potencia: Succión variable automática de hasta 3800 Pa | Algoritmo de frecuencia que adapta la potencia de succión según el nivel de suciedad detectado y diseño circular de doble mopa | [Ver en Amazon](https://www.amazon.es/dp/B0HFS98HNT?tag=compramaes09a-21) |
+| **AlfaBot X6 Robot Limpiacristales con Spray** | Pulverización: Rociador automático ultrasónico de agua | Depósito de agua integrado con rociador ultrasónico que humedece la mopa automáticamente sin tener que mojar el cristal a mano | [Ver en Amazon](https://www.amazon.es/dp/B0GWD6FC8H?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Requiere supervisión en la primera pasada si los cristales acumulan meses de polvo denso exterior.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07Y1Z7Y4R.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0DLL7FQ3T.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B07Y1Z7Y4R?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0DLL7FQ3T?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Al ser redondo, deja un pequeño triángulo sin cubrir en las esquinas de los marcos de las ventanas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B08M9J8P75.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0HFS98HNT.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B08M9J8P75?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0HFS98HNT?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Cable de alimentación obligatorio durante el funcionamiento (la batería interna solo actúa como sistema anticaída).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B08GFB6P9G.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0GWD6FC8H.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B08GFB6P9G?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0GWD6FC8H?tag=compramaes09a-21)
 
 ---
 

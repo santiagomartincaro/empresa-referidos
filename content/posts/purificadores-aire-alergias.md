@@ -17,9 +17,9 @@ Hemos analizado en profundidad las tres alternativas más destacadas del mercado
 
 | Modelo | Característica Clave | Punto Fuerte | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Levoit Core 300S Smart (Filtro True HEPA H13)** | Filtrado: H13 True HEPA con carbón activo (retiene el 99,97% de partículas) | Entrada de aire cilíndrica de 360 grados, sensor láser de partículas PM2 | [Ver en Amazon](https://www.amazon.es/dp/B07VVK39F7?tag=compramaes09a-21) |
-| **Philips Serie 1000i (Tecnología NanoProtect HEPA)** | Filtrado: Filtro NanoProtect HEPA que retiene partículas de 0,003 micras | Sensor profesional AeraSense que detecta cambios microscópicos de alérgenos y anillo de luz de 4 colores que indica la calidad del aire de un vistazo | [Ver en Amazon](https://www.amazon.es/dp/B01MTCW5O4?tag=compramaes09a-21) |
-| **Xiaomi Smart Air Purifier 4 (Sensor Láser de Alta Precisión)** | CADR: 400 m³/h apto para salones de hasta 48 m² | Excelente relación precio/rendimiento con ionizador de aire negativo integrado y pantalla táctil OLED que informa de temperatura, humedad y PM2 | [Ver en Amazon](https://www.amazon.es/dp/B09J9L63Z4?tag=compramaes09a-21) |
+| **Levoit Core 300S Smart (Filtro True HEPA H13)** | Filtrado: H13 True HEPA con carbón activo (retiene el 99,97% de partículas) | Entrada de aire cilíndrica de 360 grados, sensor láser de partículas PM2 | [Ver en Amazon](https://www.amazon.es/dp/B0FDL66FYH?tag=compramaes09a-21) |
+| **Philips Serie 1000i (Tecnología NanoProtect HEPA)** | Filtrado: Filtro NanoProtect HEPA que retiene partículas de 0,003 micras | Sensor profesional AeraSense que detecta cambios microscópicos de alérgenos y anillo de luz de 4 colores que indica la calidad del aire de un vistazo | [Ver en Amazon](https://www.amazon.es/dp/B0F84553XQ?tag=compramaes09a-21) |
+| **Xiaomi Smart Air Purifier 4 (Sensor Láser de Alta Precisión)** | CADR: 400 m³/h apto para salones de hasta 48 m² | Excelente relación precio/rendimiento con ionizador de aire negativo integrado y pantalla táctil OLED que informa de temperatura, humedad y PM2 | [Ver en Amazon](https://www.amazon.es/dp/B09QX6JN98?tag=compramaes09a-21) |
 
 ---
 
@@ -42,9 +42,9 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Los filtros de recambio originales deben sustituirse cada 6-8 meses según el uso.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07VVK39F7.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0FDL66FYH.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B07VVK39F7?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0FDL66FYH?tag=compramaes09a-21)
 
 ---
 
@@ -67,9 +67,9 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Dimensiones verticales ligeramente más altas que los modelos de sobremesa.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B01MTCW5O4.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B0F84553XQ.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B01MTCW5O4?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B0F84553XQ?tag=compramaes09a-21)
 
 ---
 
@@ -92,9 +92,9 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - El ionizador genera ozono en trazas mínimas, aunque puede desactivarse desde la app Xiaomi Home.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B09J9L63Z4.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/P/B09QX6JN98.01._SCLZZZZZZZ_.jpg)
 
-[Consultar precio en Amazon](https://www.amazon.es/dp/B09J9L63Z4?tag=compramaes09a-21)
+[Consultar precio en Amazon](https://www.amazon.es/dp/B09QX6JN98?tag=compramaes09a-21)
 
 ---
 
