@@ -11,7 +11,7 @@ slug: "relojes-buceo-ordenador"
 
 En el buceo deportivo y profesional, contar con uno de los **mejores ordenadores de buceo reloj** no es una cuestión de comodidad, sino de seguridad vital. Estos instrumentos monitorizan de forma ininterrumpida la saturación de nitrógeno en los tejidos corporales, controlan la velocidad de ascenso y calculan las paradas obligatorias de descompresión.
 
-Hemos evaluado los modelos de referencia en las costas españolas, analizando la claridad de sus pantallas en inmersiones profundas o aguas turbias, la ergonomía de sus pulsadores y la fiabilidad de sus algoritmos matemáticos.
+Hemos evaluado los modelos de referencia en las costas españolas, analizando la claridad de sus pantallas en inmersiones profundas o aguas turbias, la ergonomía de sus pulsadores y la fiabilidad de sus algoritmos matemáticos. Quienes practican deportes multidisciplinares acuáticos y terrestres suelen alternar el uso del ordenador submarino con [smartwatches deportivos con GPS](/posts/smartwatches-deportivos-gps) para running o trail.
 
 ## Tabla comparativa de especificaciones
 
@@ -100,4 +100,4 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 
 ## Guía rápida de compra y recomendación por perfil
 
-Para buceo recreativo con botellas, el **Cressi Donatello** es la mejor inversión actual por su pantalla optimizada y menús claros. Si buscas la opción más contrastada y económica para iniciarte con total seguridad, el **Cressi Leonardo** sigue siendo un caballo ganador indestructible. Por su parte, si tu pasión es el freediving, la apnea pura o la pesca submarina, el **SEAC Partner** te dará exactamente las métricas ligeras y precisas que necesitas.
+Para buceo recreativo con botellas, el **Cressi Donatello** es la mejor inversión actual por su pantalla optimizada y menús claros. Si buscas la opción más contrastada y económica para iniciarte con total seguridad, el **Cressi Leonardo** sigue siendo un caballo ganador indestructible. Por su parte, si tu pasión es el freediving, la apnea pura o la pesca submarina, el **SEAC Partner** te dará exactamente las métricas ligeras y precisas que necesitas. La fiabilidad en la lectura de distancias y parámetros técnicos comparte exigencias con los [telémetros láser para golf con compensación de pendiente](/posts/telemetros-laser-golf) en entornos al aire libre.

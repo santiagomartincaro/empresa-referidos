@@ -11,7 +11,7 @@ slug: "gimbal-estabilizadores-movil"
 
 Grabar vídeo profesional para TikTok, YouTube o recuerdos familiares con un smartphone suele arruinarse por los pequeños temblores del paso al caminar. Los **mejores estabilizadores gimbal de tres ejes para movil** utilizan motores electromagnéticos sin escobillas para contrarrestar cualquier oscilación con suavidad milimétrica.
 
-Comparamos la inteligencia de los algoritmos de seguimiento de rostros y objetos (ActiveTrack y Deep Track), el diseño de abrazaderas magnéticas de desenganche rápido y la integración de trípodes desplegables en el propio mango.
+Comparamos la inteligencia de los algoritmos de seguimiento de rostros y objetos (ActiveTrack y Deep Track), el diseño de abrazaderas magnéticas de desenganche rápido y la integración de trípodes desplegables en el propio mango. La fluidez de movimientos y paneos necesita un audio a la altura; por eso, los creadores de contenido acostumbran a sumar a su equipo [micrófonos inalámbricos de solapa para móvil](/posts/microfonos-inalambricos-solapa-creadores) ultraligeros.
 
 ## Tabla comparativa de especificaciones
 
@@ -100,4 +100,4 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 
 ## Guía rápida de compra y recomendación por perfil
 
-Para creadores de contenido que buscan la herramienta más versátil y compacta para viajar sin cargar accesorios, el **Insta360 Flow** es una genialidad de ingeniería por su trípode y palo integrados. Si buscas el control manual más cinematográfico con rueda física de enfoque y ergonomía prémium de DJI, el **DJI Osmo Mobile 7** es el rey de los rodajes. Para quienes quieren iniciarse en la grabación estabilizada con la comodidad del imán rápido y sin gastar de más, el **DJI Osmo Mobile SE** es la compra inteligente.
+Para creadores de contenido que buscan la herramienta más versátil y compacta para viajar sin cargar accesorios, el **Insta360 Flow** es una genialidad de ingeniería por su trípode y palo integrados. Si buscas el control manual más cinematográfico con rueda física de enfoque y ergonomía prémium de DJI, el **DJI Osmo Mobile 7** es el rey de los rodajes. Para quienes quieren iniciarse en la grabación estabilizada con la comodidad del imán rápido y sin gastar de más, el **DJI Osmo Mobile SE** es la compra inteligente. Para revisar tus vídeos sobre una pared blanca o montar una sesión de cine allá donde viajes, te recomendamos explorar los [miniproyectores portátiles con batería integrada](/posts/proyectores-portatiles-bateria).

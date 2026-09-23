@@ -11,7 +11,7 @@ slug: "discos-ssd-portatiles-antigolpes"
 
 Llevar copias de seguridad de proyectos de trabajo, bibliotecas de fotos RAW en 4K o juegos de consola exige discos duros que no teman a los golpes ni al agua. Los **mejores discos duros ssd externos ultrarrapidos y resistentes** multiplican por 10 la velocidad de los antiguos discos mecánicos en el tamaño de un mechero.
 
-En nuestras pruebas de estrés transferimos archivos de más de 50 GB de golpe para monitorizar la estabilidad de las tasas de lectura y escritura sostenidas, la gestión térmica de los chasis de aluminio y la resistencia ante caídas de dos metros sobre hormigón.
+En nuestras pruebas de estrés transferimos archivos de más de 50 GB de golpe para monitorizar la estabilidad de las tasas de lectura y escritura sostenidas, la gestión térmica de los chasis de aluminio y la resistencia ante caídas de dos metros sobre hormigón. Volcar grabaciones y brutos en 4K sin perder cuadros ni saturar el almacenamiento interno requiere conectar tu equipo a [capturadoras de vídeo 4K para streaming](/posts/tarjetas-capturadoras-video-4k).
 
 ## Tabla comparativa de especificaciones
 
@@ -100,4 +100,4 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 
 ## Guía rápida de compra y recomendación por perfil
 
-Para fotógrafos, videógrafos de campo y viajeros que buscan un disco todoterreno a prueba de caídas, lluvia y barro con un enganche seguro para la mochila, el **SanDisk Extreme SSD** es la opción más icónica y fiable. Si trabajas editando vídeo pesado en alta resolución y tienes un puerto rápido, el **Crucial X10 Pro (2100 MB/s)** es una auténtica bestia de rendimiento. Si buscas el SSD más ligero y económico para copias de seguridad rápidas y ampliar tu consola, el **Crucial X9** es insuperable en valor.
+Para fotógrafos, videógrafos de campo y viajeros que buscan un disco todoterreno a prueba de caídas, lluvia y barro con un enganche seguro para la mochila, el **SanDisk Extreme SSD** es la opción más icónica y fiable. Si trabajas editando vídeo pesado en alta resolución y tienes un puerto rápido, el **Crucial X10 Pro (2100 MB/s)** es una auténtica bestia de rendimiento. Si buscas el SSD más ligero y económico para copias de seguridad rápidas y ampliar tu consola, el **Crucial X9** es insuperable en valor. Para transferir proyectos pesados a velocidad máxima y conectar todos tus accesorios de edición de vídeo, conviene apoyarse en [docking stations Thunderbolt 4 para doble monitor](/posts/docking-stations-thunderbolt-doble-monitor).
