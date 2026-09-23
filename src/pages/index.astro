@@ -3,73 +3,344 @@ import Layout from '../layouts/Layout.astro';
 
 // Carga dinámica de todos los artículos ubicados en content/posts/
 const rawPosts = import.meta.glob('../../content/posts/*.md', { eager: true });
+
 const posts = Object.values(rawPosts).map((post: any) => {
   const slug = post.frontmatter?.slug || post.file?.split('/')?.pop()?.replace('.md', '');
+  
+  // Extraer el contenido crudo (rawContent) o compilado para la búsqueda de la imagen
+  const rawBody = typeof post.rawContent === 'function' ? post.rawContent() : (post.body || '');
+  const compiled = typeof post.compiledContent === 'function' ? post.compiledContent() : '';
+  const textToSearch = rawBody + ' ' + compiled;
+
+  // Lógica RegEx en el frontmatter para buscar la primera imagen de Amazon (m.media-amazon.com)
+  const imgMatch = textToSearch.match(/https?:\/\/m\.media-amazon\.com\/images\/[^\s\)"']+/i);
+  const coverImage = imgMatch ? imgMatch[0] : null;
+
   return {
     ...post.frontmatter,
     slug,
     url: `/posts/${slug}`,
+    coverImage,
   };
+}).sort((a, b) => {
+  const dateA = a.pubDate ? new Date(a.pubDate).getTime() : 0;
+  const dateB = b.pubDate ? new Date(b.pubDate).getTime() : 0;
+  return dateB - dateA;
 });
+
+// Conteo y extracción dinámica de categorías
+const categoryCounts: Record<string, number> = {
+  Todas: posts.length,
+};
+
+posts.forEach((p) => {
+  const cat = p.category || 'General';
+  categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
+});
+
+const uniqueCategories = Array.from(new Set(posts.map((p) => p.category).filter(Boolean))).sort();
+const categories = ['Todas', ...uniqueCategories];
 ---
 
 <Layout title="CompraMaestra | Guías de Compra & Comparativas Reales">
-  <!-- Hero Section -->
-  <section class="mb-12 text-center sm:text-left border-b border-slate-200 pb-10">
-    <div class="inline-block px-3 py-1 mb-4 rounded-full bg-amber-100 text-amber-900 font-semibold text-xs tracking-wide uppercase">
-      Criterio técnico sin rodeos
+  <!-- Hero & Buscador Section -->
+  <section class="relative mb-12 sm:mb-16">
+    <div class="relative overflow-hidden rounded-3xl bg-gradient-to-b from-slate-900 via-slate-900 to-slate-950 text-white px-6 py-12 sm:px-12 sm:py-16 shadow-2xl border border-slate-800 text-center">
+      <!-- Glow ambiental decorativo -->
+      <div class="absolute -top-24 left-1/2 -translate-x-1/2 w-96 h-96 bg-amber-500/15 rounded-full blur-3xl pointer-events-none"></div>
+
+      <div class="relative z-10 max-w-3xl mx-auto">
+        <div class="inline-flex items-center gap-2 px-3 py-1 mb-5 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-400 font-bold text-xs uppercase tracking-widest">
+          <span class="w-1.5 h-1.5 rounded-full bg-amber-400"></span>
+          Criterio técnico sin rodeos
+        </div>
+
+        <h1 class="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-tight mb-5">
+          Comparativas reales basadas en datos de laboratorio.
+        </h1>
+
+        <p class="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto leading-relaxed mb-8">
+          Analizamos especificaciones verídicas, pros y contras sin adornos publicitarios para que tomes la mejor decisión de compra en Amazon.
+        </p>
+
+        <!-- Barra de Búsqueda Interactiva -->
+        <div class="relative max-w-xl mx-auto mb-8">
+          <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none text-slate-400">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+            </svg>
+          </div>
+          <input 
+            type="text" 
+            id="search-input" 
+            placeholder="Buscar por producto, marca o necesidad (ej. altavoces, freidora, robot)..."
+            class="w-full pl-11 pr-10 py-3.5 bg-slate-800/90 text-white placeholder-slate-400 border border-slate-700 rounded-2xl shadow-inner focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-amber-500 text-sm sm:text-base transition-all backdrop-blur-sm"
+            autocomplete="off"
+          />
+          <button 
+            type="button" 
+            id="clear-search" 
+            class="hidden absolute inset-y-0 right-0 pr-3.5 flex items-center text-slate-400 hover:text-white transition-colors"
+            title="Borrar búsqueda"
+          >
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+            </svg>
+          </button>
+        </div>
+
+        <!-- Selector de Botones (Píldoras) con categorías extraídas dinámicamente -->
+        <div class="flex flex-wrap items-center justify-center gap-2 pt-2">
+          {categories.map((cat, idx) => (
+            <button
+              type="button"
+              data-category={cat}
+              class={`category-pill px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all duration-200 border ${
+                idx === 0 
+                  ? 'bg-amber-500 text-slate-950 border-amber-400 font-bold shadow-sm shadow-amber-500/20 active-pill' 
+                  : 'bg-slate-800/80 text-slate-300 border-slate-700 hover:bg-slate-700/80 hover:text-white'
+              }`}
+            >
+              {cat}
+              <span class="ml-1.5 opacity-60 text-[10px]">
+                {categoryCounts[cat] || 0}
+              </span>
+            </button>
+          ))}
+        </div>
+      </div>
     </div>
-    <h1 class="text-3xl sm:text-5xl font-black text-slate-900 tracking-tight leading-tight mb-4">
-      Comparativas reales basadas en datos de laboratorio.
-    </h1>
-    <p class="text-base sm:text-lg text-slate-600 max-w-2xl leading-relaxed">
-      Analizamos especificaciones verídicas, pros y contras sin adornos publicitarios para que tomes la mejor decisión de compra en Amazon.
-    </p>
   </section>
 
-  <!-- Listado de Artículos -->
+  <!-- Listado de Artículos en Grid Visual -->
   <section>
-    <div class="flex items-center justify-between mb-8">
-      <h2 class="text-xl sm:text-2xl font-bold text-slate-900 tracking-tight">Últimos análisis publicados</h2>
-      <span class="text-sm font-medium text-slate-500">{posts.length} comparativas disponibles</span>
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
+      <div>
+        <h2 class="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+          Análisis y Comparativas Técnicas
+        </h2>
+        <p class="text-sm text-slate-500 mt-1">Modelos verificados con tabla de especificaciones y enlace directo.</p>
+      </div>
+      <div class="flex items-center gap-2">
+        <span id="results-count" class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-slate-200/80 text-slate-700">
+          {posts.length} comparativas disponibles
+        </span>
+      </div>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
+    <!-- Cuadrícula de Tarjetas (grid-cols-1 md:grid-cols-2 lg:grid-cols-3) -->
+    <div id="posts-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
       {posts.map((post) => (
-        <article class="bg-white rounded-2xl border border-slate-200 shadow-xs hover:shadow-md transition-all duration-200 p-6 flex flex-col justify-between group hover:border-amber-400">
-          <div>
-            <div class="flex items-center justify-between gap-2 mb-3">
-              <span class="px-2.5 py-1 text-xs font-bold rounded-lg bg-slate-100 text-slate-700 uppercase tracking-wider">
-                {post.category || 'General'}
-              </span>
-              <time class="text-xs text-slate-400">
-                {post.pubDate ? new Date(post.pubDate).toLocaleDateString('es-ES', { year: 'numeric', month: 'short', day: 'numeric' }) : ''}
-              </time>
-            </div>
+        <article 
+          class="post-card bg-white rounded-2xl border border-slate-200/80 shadow-xs hover:shadow-xl hover:-translate-y-1.5 transition-all duration-300 flex flex-col justify-between overflow-hidden group hover:border-amber-400"
+          data-title={(post.title || '').toLowerCase()}
+          data-description={(post.description || '').toLowerCase()}
+          data-category={(post.category || 'General').toLowerCase()}
+        >
+          <!-- Cabecera de Tarjeta con Foto extraída de Amazon -->
+          <div class="relative w-full h-52 bg-slate-50 border-b border-slate-100 flex items-center justify-center p-5 overflow-hidden">
+            {post.coverImage ? (
+              <img 
+                src={post.coverImage} 
+                alt={post.title} 
+                loading="lazy"
+                class="max-h-full max-w-full object-contain filter drop-shadow-sm group-hover:scale-105 transition-transform duration-300"
+              />
+            ) : (
+              <div class="flex flex-col items-center justify-center text-slate-300">
+                <svg class="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"></path>
+                </svg>
+              </div>
+            )}
+            
+            <!-- Etiqueta de Categoría Flotante -->
+            <span class="absolute top-3 left-3 px-2.5 py-1 text-[11px] font-bold uppercase tracking-wider rounded-lg bg-white/95 backdrop-blur-sm text-slate-800 shadow-xs border border-slate-200/80">
+              {post.category || 'General'}
+            </span>
 
-            <h3 class="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-amber-600 transition-colors mb-2 leading-snug">
-              <a href={post.url}>
-                {post.title}
-              </a>
-            </h3>
-
-            <p class="text-sm text-slate-600 line-clamp-3 mb-6 leading-relaxed">
-              {post.description}
-            </p>
+            <span class="absolute bottom-3 right-3 px-2 py-0.5 text-[10px] font-semibold rounded-md bg-slate-900/80 text-white backdrop-blur-sm">
+              3 Alternativas
+            </span>
           </div>
 
-          <div class="pt-4 border-t border-slate-100 flex items-center justify-between">
-            <span class="text-xs font-semibold text-slate-400">Tabla comparativa incluida</span>
-            <a 
-              href={post.url} 
-              class="inline-flex items-center gap-1 text-sm font-bold text-amber-600 group-hover:text-amber-700 hover:underline"
-            >
-              Leer análisis completo
-              <span class="transition-transform group-hover:translate-x-1">→</span>
-            </a>
+          <!-- Contenido de la Tarjeta -->
+          <div class="p-6 flex-1 flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between text-xs text-slate-400 mb-2.5">
+                <span class="inline-flex items-center gap-1 font-semibold text-emerald-600">
+                  <span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+                  Datos verificados
+                </span>
+                {post.pubDate && (
+                  <time>
+                    {new Date(post.pubDate).toLocaleDateString('es-ES', { year: 'numeric', month: 'short', day: 'numeric' })}
+                  </time>
+                )}
+              </div>
+
+              <h3 class="text-base sm:text-lg font-bold text-slate-900 group-hover:text-amber-600 transition-colors mb-2.5 leading-snug line-clamp-2">
+                <a href={post.url}>
+                  {post.title}
+                </a>
+              </h3>
+
+              <p class="text-xs sm:text-sm text-slate-600 line-clamp-3 mb-6 leading-relaxed">
+                {post.description}
+              </p>
+            </div>
+
+            <!-- Pie de la Tarjeta -->
+            <div class="pt-4 border-t border-slate-100 flex items-center justify-between mt-auto">
+              <span class="text-xs font-semibold text-slate-400 flex items-center gap-1">
+                <span>📋</span> Comparativa
+              </span>
+              <a 
+                href={post.url} 
+                class="inline-flex items-center gap-1.5 text-xs sm:text-sm font-bold text-amber-600 group-hover:text-amber-700 hover:underline"
+              >
+                Leer análisis
+                <span class="transition-transform group-hover:translate-x-1">→</span>
+              </a>
+            </div>
           </div>
         </article>
       ))}
     </div>
+
+    <!-- Estado vacío cuando no hay resultados de búsqueda -->
+    <div id="no-results" class="hidden text-center py-16 px-4 bg-white rounded-3xl border border-dashed border-slate-300 mt-8">
+      <div class="w-14 h-14 bg-amber-100 text-amber-600 rounded-2xl flex items-center justify-center mx-auto mb-4 text-2xl">
+        🔍
+      </div>
+      <h3 class="text-lg font-bold text-slate-800 mb-1">No se encontraron comparativas</h3>
+      <p class="text-sm text-slate-500 max-w-md mx-auto mb-6">
+        No hay análisis que coincidan con tu término de búsqueda o categoría seleccionada.
+      </p>
+      <button
+        type="button"
+        id="reset-filters-btn"
+        class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-slate-900 text-white font-bold text-xs uppercase tracking-wider hover:bg-slate-800 transition-colors shadow-sm"
+      >
+        Restablecer todos los filtros
+      </button>
+    </div>
   </section>
+
+  <!-- Filtros en tiempo real en Vanilla JS -->
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+      const searchInput = document.getElementById('search-input');
+      const clearSearchBtn = document.getElementById('clear-search');
+      const pillButtons = document.querySelectorAll('.category-pill');
+      const cards = document.querySelectorAll('.post-card');
+      const resultsCountEl = document.getElementById('results-count');
+      const noResultsEl = document.getElementById('no-results');
+      const resetFiltersBtn = document.getElementById('reset-filters-btn');
+
+      let currentCategory = 'todas';
+      let currentSearch = '';
+
+      function filterPosts() {
+        let visibleCount = 0;
+
+        cards.forEach((card) => {
+          const title = card.getAttribute('data-title') || '';
+          const desc = card.getAttribute('data-description') || '';
+          const category = card.getAttribute('data-category') || '';
+
+          const matchesCategory = currentCategory === 'todas' || category === currentCategory;
+          const matchesSearch = currentSearch === '' || 
+            title.includes(currentSearch) || 
+            desc.includes(currentSearch) || 
+            category.includes(currentSearch);
+
+          if (matchesCategory && matchesSearch) {
+            card.classList.remove('hidden');
+            visibleCount++;
+          } else {
+            card.classList.add('hidden');
+          }
+        });
+
+        if (resultsCountEl) {
+          resultsCountEl.textContent = visibleCount === 1 
+            ? '1 comparativa disponible' 
+            : `${visibleCount} comparativas disponibles`;
+        }
+
+        if (noResultsEl) {
+          if (visibleCount === 0) {
+            noResultsEl.classList.remove('hidden');
+          } else {
+            noResultsEl.classList.add('hidden');
+          }
+        }
+      }
+
+      // Input Search listener
+      if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+          currentSearch = e.target.value.toLowerCase().trim();
+          if (clearSearchBtn) {
+            if (currentSearch.length > 0) {
+              clearSearchBtn.classList.remove('hidden');
+            } else {
+              clearSearchBtn.classList.add('hidden');
+            }
+          }
+          filterPosts();
+        });
+      }
+
+      // Clear search button
+      if (clearSearchBtn) {
+        clearSearchBtn.addEventListener('click', () => {
+          if (searchInput) {
+            searchInput.value = '';
+            currentSearch = '';
+            clearSearchBtn.classList.add('hidden');
+            searchInput.focus();
+            filterPosts();
+          }
+        });
+      }
+
+      // Category pills listener
+      pillButtons.forEach((pill) => {
+        pill.addEventListener('click', () => {
+          const selected = (pill.getAttribute('data-category') || 'todas').toLowerCase();
+          currentCategory = selected;
+
+          pillButtons.forEach((btn) => {
+            if (btn === pill) {
+              btn.className = 'category-pill px-3.5 py-1.5 rounded-full text-xs font-bold transition-all duration-200 border bg-amber-500 text-slate-950 border-amber-400 shadow-sm shadow-amber-500/20 active-pill';
+            } else {
+              btn.className = 'category-pill px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all duration-200 border bg-slate-800/80 text-slate-300 border-slate-700 hover:bg-slate-700/80 hover:text-white';
+            }
+          });
+
+          filterPosts();
+        });
+      });
+
+      // Reset filters button
+      if (resetFiltersBtn) {
+        resetFiltersBtn.addEventListener('click', () => {
+          if (searchInput) {
+            searchInput.value = '';
+            currentSearch = '';
+            if (clearSearchBtn) clearSearchBtn.classList.add('hidden');
+          }
+          const todasPill = document.querySelector('.category-pill[data-category="Todas"]');
+          if (todasPill) {
+            todasPill.click();
+          } else {
+            currentCategory = 'todas';
+            filterPosts();
+          }
+        });
+      }
+    });
+  </script>
 </Layout>

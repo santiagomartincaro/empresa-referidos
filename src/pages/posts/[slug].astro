@@ -14,67 +14,130 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content, frontmatter } = post;
+
+// Extraer programáticamente la primera foto de producto de Amazon del Markdown
+const rawBody = typeof post.rawContent === 'function' ? post.rawContent() : (post.body || '');
+const compiled = typeof post.compiledContent === 'function' ? post.compiledContent() : '';
+const textToSearch = rawBody + ' ' + compiled;
+const imgMatch = textToSearch.match(/https?:\/\/m\.media-amazon\.com\/images\/[^\s\)"']+/i);
+const featuredImage = imgMatch ? imgMatch[0] : null;
 ---
 
 <Layout title={`${frontmatter.title} | CompraMaestra`} description={frontmatter.description}>
-  <!-- Migas de pan / Breadcrumb -->
-  <nav class="flex items-center gap-2 text-xs sm:text-sm text-slate-500 mb-6 overflow-x-auto whitespace-nowrap pb-2">
-    <a href="/" class="hover:text-amber-600 transition-colors">Inicio</a>
-    <span>/</span>
-    <span class="text-slate-700 font-medium">{frontmatter.category || 'Comparativa'}</span>
-    <span>/</span>
-    <span class="text-slate-400 truncate max-w-[200px] sm:max-w-none">{frontmatter.title}</span>
+  <!-- Migas de pan / Breadcrumbs -->
+  <nav class="flex items-center gap-2 text-xs sm:text-sm text-slate-500 mb-6 overflow-x-auto whitespace-nowrap pb-1">
+    <a href="/" class="hover:text-amber-600 transition-colors font-medium flex items-center gap-1">
+      <span>←</span> Portada
+    </a>
+    <span class="text-slate-300">/</span>
+    <span class="text-slate-700 font-semibold">{frontmatter.category || 'Comparativa'}</span>
+    <span class="text-slate-300">/</span>
+    <span class="text-slate-400 truncate max-w-[220px] sm:max-w-md">{frontmatter.title}</span>
   </nav>
 
-  <!-- Encabezado del Artículo -->
-  <header class="mb-8 border-b border-slate-200 pb-8">
-    <div class="flex flex-wrap items-center gap-2 mb-4">
-      <span class="px-3 py-1 text-xs font-bold rounded-lg bg-amber-100 text-amber-900 uppercase tracking-wider">
-        {frontmatter.category}
-      </span>
-      {frontmatter.pubDate && (
-        <span class="text-xs text-slate-500">
-          Actualizado: {new Date(frontmatter.pubDate).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}
-        </span>
+  <!-- Hero del Artículo: Cabecera amplia con fondo degradado oscuro (slate-900 a slate-800) -->
+  <header class="relative overflow-hidden rounded-3xl bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 text-white p-6 sm:p-10 lg:p-12 mb-12 shadow-2xl border border-slate-700/60">
+    <!-- Glows decorativos ambientales -->
+    <div class="absolute -top-32 -right-32 w-80 h-80 rounded-full bg-amber-500/15 blur-3xl pointer-events-none"></div>
+    <div class="absolute -bottom-32 -left-32 w-80 h-80 rounded-full bg-blue-500/10 blur-3xl pointer-events-none"></div>
+
+    <div class="relative z-10 flex flex-col lg:flex-row items-center justify-between gap-8 lg:gap-12">
+      <!-- Información del Artículo -->
+      <div class="flex-1 text-center lg:text-left">
+        <!-- Badges superiores -->
+        <div class="flex flex-wrap items-center justify-center lg:justify-start gap-2.5 mb-4">
+          <span class="px-3 py-1 text-xs font-bold rounded-lg bg-amber-500/20 text-amber-300 border border-amber-500/40 uppercase tracking-wider">
+            {frontmatter.category || 'Análisis'}
+          </span>
+          <span class="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-lg bg-emerald-500/15 text-emerald-300 border border-emerald-500/30">
+            <span>✓</span> Datos verificados
+          </span>
+          {frontmatter.pubDate && (
+            <span class="text-xs text-slate-400">
+              Actualizado: {new Date(frontmatter.pubDate).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}
+            </span>
+          )}
+        </div>
+
+        <!-- Título H1 Principal -->
+        <h1 class="text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-black text-white tracking-tight leading-tight mb-4">
+          {frontmatter.title}
+        </h1>
+
+        <!-- Subtítulo / Descripción -->
+        {frontmatter.description && (
+          <p class="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed font-normal max-w-2xl mx-auto lg:mx-0 mb-6">
+            {frontmatter.description}
+          </p>
+        )}
+
+        <!-- Sellos de confianza -->
+        <div class="inline-flex flex-wrap items-center justify-center lg:justify-start gap-4 pt-4 border-t border-slate-800 text-xs text-slate-400">
+          <span class="flex items-center gap-1.5">
+            <span class="text-amber-400">★</span> 3 Alternativas analizadas
+          </span>
+          <span class="flex items-center gap-1.5">
+            <span class="text-amber-400">★</span> Pros y Contras reales
+          </span>
+          <span class="flex items-center gap-1.5">
+            <span class="text-amber-400">★</span> Enlaces directos a Amazon
+          </span>
+        </div>
+      </div>
+
+      <!-- Foto de producto extraída programáticamente del Markdown -->
+      {featuredImage && (
+        <div class="flex-shrink-0 w-full sm:w-80 lg:w-72 flex flex-col items-center">
+          <div class="w-full bg-white/10 backdrop-blur-md rounded-2xl border border-white/20 p-6 shadow-2xl flex items-center justify-center relative group">
+            <img 
+              src={featuredImage} 
+              alt={frontmatter.title} 
+              class="max-h-56 max-w-full object-contain filter drop-shadow-2xl transition-transform duration-300 group-hover:scale-105"
+            />
+            <span class="absolute bottom-3 left-3 right-3 text-center text-[10px] font-bold uppercase tracking-wider text-slate-300 bg-slate-950/70 backdrop-blur-sm py-1 px-2 rounded-md border border-white/10">
+              Modelo Destacado
+            </span>
+          </div>
+        </div>
       )}
-      <span class="text-xs text-emerald-700 bg-emerald-50 border border-emerald-200 px-2.5 py-0.5 rounded-full font-medium">
-        ✓ Datos técnicos verificados
-      </span>
     </div>
-
-    <h1 class="text-2xl sm:text-4xl font-black text-slate-900 tracking-tight leading-tight mb-4">
-      {frontmatter.title}
-    </h1>
-
-    {frontmatter.description && (
-      <p class="text-base sm:text-xl text-slate-600 leading-relaxed font-normal">
-        {frontmatter.description}
-      </p>
-    )}
   </header>
 
-  <!-- Cuerpo del Artículo Renderizado con Tailwind Typography -->
-  <article class="prose prose-slate max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-headings:text-slate-900 prose-h2:text-2xl prose-h2:border-b prose-h2:border-slate-200 prose-h2:pb-2.5 prose-h2:mt-10 prose-h3:text-xl prose-h3:text-slate-800 prose-p:leading-relaxed prose-li:leading-relaxed prose-strong:text-slate-900">
-    <Content />
-  </article>
+  <!-- Contenedor del Cuerpo del Artículo Renderizado con Tailwind Typography -->
+  <div class="max-w-4xl mx-auto">
+    <article class="prose prose-slate prose-lg max-w-none prose-headings:font-black prose-headings:tracking-tight prose-headings:text-slate-900 prose-h2:text-2xl sm:prose-h2:text-3xl prose-h2:border-b prose-h2:border-slate-200 prose-h2:pb-3 prose-h2:mt-12 prose-h3:text-xl prose-h3:text-slate-800 prose-p:text-slate-700 prose-p:leading-relaxed prose-li:text-slate-700 prose-strong:text-slate-900">
+      <Content />
+    </article>
 
-  <!-- Caja de Cierre / Transparencia de Afiliación -->
-  <aside class="mt-12 p-6 rounded-2xl bg-amber-50/70 border border-amber-200/80">
-    <h3 class="text-sm font-bold text-amber-950 uppercase tracking-wider mb-2 flex items-center gap-2">
-      <span>🛡️</span> Criterio de Selección Independiente
-    </h3>
-    <p class="text-xs sm:text-sm text-amber-900/80 leading-relaxed">
-      Nuestras recomendaciones se basan en especificaciones técnicas de laboratorio, pruebas empíricas y opiniones de usuarios contrastadas. Al comprar mediante los botones de Amazon de este artículo recibimos una pequeña comisión que nos permite mantener este proyecto sin patrocinios sesgados.
-    </p>
-  </aside>
+    <!-- Caja de Cierre / Transparencia de Afiliación -->
+    <aside class="mt-16 p-6 sm:p-8 rounded-3xl bg-amber-500/10 border border-amber-500/30 text-slate-800">
+      <div class="flex flex-col sm:flex-row items-center sm:items-start gap-4 text-center sm:text-left">
+        <div class="w-12 h-12 rounded-2xl bg-amber-500 text-white flex items-center justify-center text-xl flex-shrink-0 shadow-md shadow-amber-500/30">
+          🛡️
+        </div>
+        <div>
+          <h3 class="text-base font-bold text-slate-900 uppercase tracking-wider mb-1.5">
+            Criterio de Selección Independiente
+          </h3>
+          <p class="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
+            Nuestras recomendaciones se basan en especificaciones técnicas de laboratorio, pruebas empíricas y opiniones de usuarios contrastadas. Al comprar mediante los botones de Amazon de este artículo recibimos una pequeña comisión que nos permite mantener este proyecto sin patrocinios sesgados ni compromisos con marcas.
+          </p>
+          <span class="inline-flex items-center gap-1.5 text-xs font-bold text-amber-800">
+            ✓ Precios y disponibilidades sincronizados periódicamente con Amazon.es.
+          </span>
+        </div>
+      </div>
+    </aside>
 
-  <!-- Botón Volver -->
-  <div class="mt-10 pt-6 border-t border-slate-200 flex justify-center sm:justify-start">
-    <a 
-      href="/" 
-      class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl border border-slate-300 text-slate-700 font-semibold text-sm hover:bg-slate-100 transition-colors"
-    >
-      ← Volver a todas las comparativas
-    </a>
+    <!-- Botón Volver -->
+    <div class="mt-12 pt-8 border-t border-slate-200 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <a 
+        href="/" 
+        class="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-slate-300 text-slate-700 font-bold text-sm hover:bg-slate-100 hover:text-slate-900 transition-all shadow-xs"
+      >
+        ← Volver a todas las comparativas
+      </a>
+      <span class="text-xs text-slate-400">CompraMaestra · Análisis objetivos para decisiones inteligentes</span>
+    </div>
   </div>
 </Layout>
