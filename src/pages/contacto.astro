@@ -1,0 +1,159 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout 
+  title="Contacto y Atención al Lector | CompraMaestra" 
+  description="Contacta con el equipo editorial de CompraMaestra. Envía dudas técnicas, sugerencias de nuevos productos o solicitudes de corrección de datos."
+>
+  <div class="space-y-10 sm:space-y-12 max-w-4xl mx-auto">
+    <!-- Encabezado -->
+    <header class="text-center space-y-3 pt-4 sm:pt-6">
+      <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-semibold bg-emerald-100/80 text-emerald-900 border border-emerald-200">
+        <span>✉️</span>
+        Canal Directo de Comunicación
+      </div>
+      <h1 class="text-3xl sm:text-5xl font-black tracking-tight text-emerald-950">
+        Ponte en Contacto
+      </h1>
+      <p class="text-sm sm:text-base text-emerald-800/80 max-w-xl mx-auto">
+        ¿Tienes dudas sobre una comparativa, has detectado un error técnico en alguna ficha o quieres sugerir un nuevo producto para análisis? Te escuchamos.
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
+      <!-- Tarjeta informativa lateral -->
+      <div class="lg:col-span-1 space-y-6">
+        <div class="bg-white p-6 rounded-3xl border border-emerald-100 shadow-sm space-y-4">
+          <div class="w-10 h-10 rounded-xl bg-emerald-600/10 text-emerald-700 flex items-center justify-center font-bold text-xl">
+            📬
+          </div>
+          <h2 class="text-lg font-bold text-emerald-950">Atención Editorial</h2>
+          <p class="text-xs sm:text-sm text-emerald-900/75 leading-relaxed">
+            Revisamos manualmente cada mensaje recibido para mejorar la calidad y precisión de nuestras guías de compra.
+          </p>
+          <div class="pt-2 border-t border-emerald-50 space-y-2 text-xs text-emerald-900/80">
+            <div class="flex items-center gap-2">
+              <span class="text-emerald-600 font-bold">⏱️ Plazo de respuesta:</span>
+              <span>24 a 48 horas laborables</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="text-emerald-600 font-bold">📍 Idioma:</span>
+              <span>Español / English</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-emerald-950 text-emerald-100 p-6 rounded-3xl shadow-md space-y-3">
+          <div class="flex items-center gap-2 text-white font-bold text-sm">
+            <span>🛡️</span>
+            <span>Aviso sobre Marcas y Patrocinios</span>
+          </div>
+          <p class="text-xs text-emerald-200/80 leading-relaxed">
+            Para salvaguardar la confianza de nuestros lectores y el cumplimiento estricto de las directrices E-E-A-T de Google, <strong>CompraMaestra no acepta pagos por publicar opiniones favorables</strong> ni modifica notas técnicas por solicitud comercial de fabricantes.
+          </p>
+        </div>
+      </div>
+
+      <!-- Formulario de contacto simulado -->
+      <div class="lg:col-span-2 bg-white p-6 sm:p-10 rounded-3xl border border-emerald-100 shadow-sm">
+        <!-- Banner de éxito (inicialmente oculto) -->
+        <div id="form-success-banner" class="hidden mb-6 p-4 rounded-2xl bg-emerald-50 border border-emerald-300 text-emerald-900 text-sm">
+          <div class="flex items-center gap-2 font-bold mb-1">
+            <span>✅</span>
+            <span>¡Mensaje recibido correctamente!</span>
+          </div>
+          <p class="text-xs text-emerald-800">
+            Gracias por contactar con CompraMaestra. Un editor técnico revisará tu consulta a la mayor brevedad posible.
+          </p>
+        </div>
+
+        <form id="contact-form" class="space-y-5" onsubmit="event.preventDefault(); document.getElementById('form-success-banner').classList.remove('hidden'); document.getElementById('contact-form').reset(); window.scrollTo({top: 200, behavior: 'smooth'});">
+          <div>
+            <label for="name" class="block text-xs font-bold uppercase tracking-wider text-emerald-900 mb-1.5">
+              Nombre o alias <span class="text-emerald-600">*</span>
+            </label>
+            <input 
+              type="text" 
+              id="name" 
+              name="name" 
+              required 
+              placeholder="Ej. Carlos Mendoza" 
+              class="w-full px-4 py-3 rounded-xl border border-emerald-200/90 text-sm text-emerald-950 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 transition-all bg-emerald-50/20"
+            />
+          </div>
+
+          <div>
+            <label for="email" class="block text-xs font-bold uppercase tracking-wider text-emerald-900 mb-1.5">
+              Correo electrónico <span class="text-emerald-600">*</span>
+            </label>
+            <input 
+              type="email" 
+              id="email" 
+              name="email" 
+              required 
+              placeholder="tuemail@ejemplo.com" 
+              class="w-full px-4 py-3 rounded-xl border border-emerald-200/90 text-sm text-emerald-950 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 transition-all bg-emerald-50/20"
+            />
+          </div>
+
+          <div>
+            <label for="subject" class="block text-xs font-bold uppercase tracking-wider text-emerald-900 mb-1.5">
+              Motivo de la consulta <span class="text-emerald-600">*</span>
+            </label>
+            <select 
+              id="subject" 
+              name="subject" 
+              required
+              class="w-full px-4 py-3 rounded-xl border border-emerald-200/90 text-sm text-emerald-950 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 transition-all bg-white"
+            >
+              <option value="" disabled selected>Selecciona un motivo...</option>
+              <option value="duda">Duda técnica sobre un producto analizado</option>
+              <option value="sugerencia">Sugerir un nuevo producto o comparativa</option>
+              <option value="error">Notificar un error o enlace desactualizado</option>
+              <option value="legal">Consulta legal o derechos de privacidad</option>
+              <option value="otro">Otro asunto</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="message" class="block text-xs font-bold uppercase tracking-wider text-emerald-900 mb-1.5">
+              Mensaje o detalle técnico <span class="text-emerald-600">*</span>
+            </label>
+            <textarea 
+              id="message" 
+              name="message" 
+              rows="5" 
+              required 
+              placeholder="Explícanos tu duda con el mayor nivel de detalle posible..."
+              class="w-full px-4 py-3 rounded-xl border border-emerald-200/90 text-sm text-emerald-950 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 transition-all bg-emerald-50/20 resize-y"
+            ></textarea>
+          </div>
+
+          <div class="flex items-start gap-2.5 pt-1">
+            <input 
+              type="checkbox" 
+              id="privacy" 
+              name="privacy" 
+              required
+              class="mt-1 h-4 w-4 rounded border-emerald-300 text-emerald-600 focus:ring-emerald-500"
+            />
+            <label for="privacy" class="text-xs text-emerald-900/80 leading-relaxed">
+              He leído y acepto el <a href="/legal" class="text-emerald-700 font-semibold underline hover:text-emerald-900">Aviso Legal y la Política de Privacidad</a> para la gestión de esta consulta.
+            </label>
+          </div>
+
+          <div class="pt-3">
+            <button 
+              type="submit" 
+              class="w-full sm:w-auto px-8 py-3.5 rounded-xl bg-gradient-to-r from-emerald-700 to-teal-800 text-white font-bold text-sm shadow-md shadow-emerald-900/20 hover:scale-[1.01] active:scale-[0.99] transition-all flex items-center justify-center gap-2 cursor-pointer"
+            >
+              <span>Enviar consulta al equipo</span>
+              <span>📨</span>
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</Layout>
