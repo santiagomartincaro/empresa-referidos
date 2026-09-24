@@ -14,6 +14,7 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content, frontmatter } = post;
+const slug = Astro.params.slug || frontmatter.slug;
 
 // Lógica obligatoria: Extraer programáticamente la primera foto de producto de Amazon del Markdown
 const rawBody = typeof post.rawContent === 'function' ? post.rawContent() : (post.body || '');
@@ -31,118 +32,240 @@ if (imgMatch) {
     featuredImage = `https://m.media-amazon.com/images/P/${asinMatch[1].toUpperCase()}.01._SCLZZZZZZZ_.jpg`;
   }
 }
+
+// 1. Datos Estructurados JSON-LD (Schema Article/Review dinámico para Google Rich Snippets)
+const siteUrl = 'https://compramaestra.es';
+const postUrl = `${siteUrl}/posts/${slug}`;
+const publishDate = frontmatter.pubDate 
+  ? new Date(frontmatter.pubDate).toISOString() 
+  : new Date('2026-09-24').toISOString();
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": `${postUrl}#article`,
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": postUrl
+      },
+      "headline": frontmatter.title,
+      "description": frontmatter.description || frontmatter.title,
+      "image": featuredImage ? [featuredImage] : [`${siteUrl}/hero-fondo.jpeg`],
+      "datePublished": publishDate,
+      "dateModified": publishDate,
+      "mainEntityOfPage": postUrl,
+      "inLanguage": "es-ES",
+      "author": {
+        "@type": "Organization",
+        "name": "Equipo Editorial CompraMaestra",
+        "url": `${siteUrl}/sobre-nosotros`
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CompraMaestra",
+        "url": siteUrl,
+        "logo": {
+          "@type": "ImageObject",
+          "url": `${siteUrl}/favicon.svg`
+        }
+      }
+    }
+  ]
+};
+
+// 2. Tabla de Contenidos Automática (ToC): Extraer subtítulos h2 o h3
+const rawHeadings = typeof post.getHeadings === 'function' ? post.getHeadings() : (post.headings || []);
+let extractedHeadings = (rawHeadings || []).filter((h: any) => h.depth === 2 || h.depth === 3);
+
+// Fallback por si getHeadings() viniese vacío
+if (extractedHeadings.length === 0 && rawBody) {
+  const slugify = (text: string) =>
+    text.toLowerCase()
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+
+  const lines = rawBody.split('\n');
+  for (const line of lines) {
+    const match = line.match(/^(#{2,3})\s+(.+)$/);
+    if (match) {
+      const depth = match[1].length;
+      const text = match[2].trim().replace(/\*\*/g, '');
+      extractedHeadings.push({ depth, slug: slugify(text), text });
+    }
+  }
+}
+
+// 3. Botón Flotante de Conversión (Mobile Sticky CTA): Extraer primer enlace de Amazon
+const amazonLinkMatch = textToSearch.match(/https?:\/\/(?:www\.)?amazon\.es\/dp\/[A-Z0-9]+[^\s\)"']*/i);
+const firstAmazonLink = amazonLinkMatch ? amazonLinkMatch[0] : null;
 ---
 
-<Layout title={`${frontmatter.title} | CompraMaestra`} description={frontmatter.description}>
-  <!-- Migas de pan / Breadcrumbs -->
-  <nav class="flex items-center gap-2 text-xs sm:text-sm text-emerald-700/80 mb-6 overflow-x-auto whitespace-nowrap pb-1">
-    <a href="/" class="hover:text-emerald-950 transition-colors font-medium flex items-center gap-1">
-      <span>←</span> Portada
-    </a>
-    <span class="text-emerald-300">/</span>
-    <span class="text-emerald-950 font-bold">{frontmatter.category || 'Comparativa'}</span>
-    <span class="text-emerald-300">/</span>
-    <span class="text-emerald-800/70 truncate max-w-[220px] sm:max-w-md">{frontmatter.title}</span>
-  </nav>
+<Layout 
+  title={`${frontmatter.title} | CompraMaestra`} 
+  description={frontmatter.description}
+  schema={articleSchema}
+>
+  <div class="pb-20 md:pb-0">
+    <!-- Migas de pan / Breadcrumbs -->
+    <nav class="flex items-center gap-2 text-xs sm:text-sm text-emerald-700/80 mb-6 overflow-x-auto whitespace-nowrap pb-1">
+      <a href="/" class="hover:text-emerald-950 transition-colors font-medium flex items-center gap-1">
+        <span>←</span> Portada
+      </a>
+      <span class="text-emerald-300">/</span>
+      <span class="text-emerald-950 font-bold">{frontmatter.category || 'Comparativa'}</span>
+      <span class="text-emerald-300">/</span>
+      <span class="text-emerald-800/70 truncate max-w-[220px] sm:max-w-md">{frontmatter.title}</span>
+    </nav>
 
-  <!-- Encabezado del Artículo: Título y Metadatos en tonos verde oscuro -->
-  <header class="mb-6">
-    <!-- Badges superiores -->
-    <div class="flex flex-wrap items-center gap-2.5 mb-4">
-      <span class="px-3 py-1 text-xs font-bold rounded-lg bg-emerald-100 text-emerald-900 border border-emerald-300 uppercase tracking-wider">
-        {frontmatter.category || 'Análisis'}
-      </span>
-      <span class="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-lg bg-emerald-100/80 text-emerald-800 border border-emerald-200">
-        <span>✓</span> Datos técnicos verificados
-      </span>
-      {frontmatter.pubDate && (
-        <span class="text-xs text-emerald-800/70">
-          Actualizado: {new Date(frontmatter.pubDate).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}
+    <!-- Encabezado del Artículo: Título y Metadatos en tonos verde oscuro -->
+    <header class="mb-6">
+      <!-- Badges superiores -->
+      <div class="flex flex-wrap items-center gap-2.5 mb-4">
+        <span class="px-3 py-1 text-xs font-bold rounded-lg bg-emerald-100 text-emerald-900 border border-emerald-300 uppercase tracking-wider">
+          {frontmatter.category || 'Análisis'}
         </span>
+        <span class="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-lg bg-emerald-100/80 text-emerald-800 border border-emerald-200">
+          <span>✓</span> Datos técnicos verificados
+        </span>
+        {frontmatter.pubDate && (
+          <span class="text-xs text-emerald-800/70">
+            Actualizado: {new Date(frontmatter.pubDate).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </span>
+        )}
+      </div>
+
+      <!-- Título Principal H1 -->
+      <h1 class="text-2xl sm:text-4xl lg:text-5xl font-black text-emerald-950 tracking-tight leading-tight mb-4">
+        {frontmatter.title}
+      </h1>
+
+      <!-- Subtítulo / Descripción -->
+      {frontmatter.description && (
+        <p class="text-base sm:text-lg lg:text-xl text-emerald-900/80 leading-relaxed font-normal mb-6 max-w-3xl">
+          {frontmatter.description}
+        </p>
       )}
-    </div>
 
-    <!-- Título Principal H1 -->
-    <h1 class="text-2xl sm:text-4xl lg:text-5xl font-black text-emerald-950 tracking-tight leading-tight mb-4">
-      {frontmatter.title}
-    </h1>
+      <!-- Sellos de confianza -->
+      <div class="inline-flex flex-wrap items-center gap-4 py-3 border-y border-emerald-200/70 text-xs text-emerald-800 font-medium">
+        <span class="flex items-center gap-1.5">
+          <span class="text-amber-500 font-bold">★</span> 3 Alternativas analizadas
+        </span>
+        <span class="flex items-center gap-1.5">
+          <span class="text-amber-500 font-bold">★</span> Pros y Contras reales
+        </span>
+        <span class="flex items-center gap-1.5">
+          <span class="text-amber-500 font-bold">★</span> Enlaces directos a Amazon
+        </span>
+      </div>
+    </header>
 
-    <!-- Subtítulo / Descripción -->
-    {frontmatter.description && (
-      <p class="text-base sm:text-lg lg:text-xl text-emerald-900/80 leading-relaxed font-normal mb-6 max-w-3xl">
-        {frontmatter.description}
-      </p>
+    <!-- Foto Principal Extraída Programáticamente -->
+    {featuredImage && (
+      <section class="my-8 sm:my-10 flex flex-col items-center justify-center">
+        <div class="relative w-full max-w-2xl bg-white rounded-2xl p-6 sm:p-10 border border-emerald-100 shadow-xl flex items-center justify-center group overflow-hidden">
+          <div class="absolute top-4 left-4 z-10">
+            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-emerald-100 text-emerald-900 border border-emerald-200 shadow-xs">
+              <span class="w-1.5 h-1.5 rounded-full bg-emerald-600 animate-pulse"></span>
+              Producto Destacado
+            </span>
+          </div>
+          <img 
+            src={featuredImage} 
+            alt={frontmatter.title} 
+            class="w-auto max-h-80 sm:max-h-96 mx-auto object-contain rounded-2xl filter drop-shadow-md transition-transform duration-300 group-hover:scale-105"
+            loading="eager"
+          />
+        </div>
+      </section>
     )}
 
-    <!-- Sellos de confianza -->
-    <div class="inline-flex flex-wrap items-center gap-4 py-3 border-y border-emerald-200/70 text-xs text-emerald-800 font-medium">
-      <span class="flex items-center gap-1.5">
-        <span class="text-amber-500 font-bold">★</span> 3 Alternativas analizadas
-      </span>
-      <span class="flex items-center gap-1.5">
-        <span class="text-amber-500 font-bold">★</span> Pros y Contras reales
-      </span>
-      <span class="flex items-center gap-1.5">
-        <span class="text-amber-500 font-bold">★</span> Enlaces directos a Amazon
-      </span>
-    </div>
-  </header>
+    <!-- Contenedor del Cuerpo del Artículo Renderizado con Tailwind Typography y Tabla Comparativa -->
+    <div class="max-w-4xl mx-auto">
+      <!-- 2. Tabla de Contenidos Automática (ToC) -->
+      {extractedHeadings.length > 0 && (
+        <nav 
+          aria-label="Tabla de contenidos" 
+          class="my-8 p-5 sm:p-6 rounded-2xl bg-emerald-50/50 border border-emerald-200/80 shadow-xs"
+        >
+          <div class="flex items-center justify-between gap-2 mb-3.5 pb-2.5 border-b border-emerald-200/60">
+            <div class="flex items-center gap-2 text-emerald-950 font-bold text-base sm:text-lg">
+              <span class="text-emerald-700">📑</span>
+              <span>Índice de la Guía</span>
+            </div>
+            <span class="text-xs font-semibold text-emerald-800 bg-emerald-100/80 px-2.5 py-0.5 rounded-full border border-emerald-200/70">
+              {extractedHeadings.length} secciones
+            </span>
+          </div>
+          <ul class="space-y-1.5 text-sm">
+            {extractedHeadings.map((h: any) => (
+              <li class={h.depth === 3 ? "pl-4 sm:pl-6 text-xs text-emerald-900/80" : "font-semibold text-emerald-950"}>
+                <a 
+                  href={`#${h.slug}`} 
+                  class="hover:text-emerald-600 transition-colors inline-flex items-center gap-1.5 group py-0.5"
+                >
+                  <span class="text-emerald-500/70 group-hover:text-emerald-700 text-xs font-mono">#</span>
+                  <span class="group-hover:underline underline-offset-2">{h.text}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
 
-  <!-- Foto Principal Extraída Programáticamente: Centrada, Grande, con Bordes Redondeados (rounded-2xl) y Sombra (shadow-xl) -->
-  {featuredImage && (
-    <section class="my-8 sm:my-10 flex flex-col items-center justify-center">
-      <div class="relative w-full max-w-2xl bg-white rounded-2xl p-6 sm:p-10 border border-emerald-100 shadow-xl flex items-center justify-center group overflow-hidden">
-        <div class="absolute top-4 left-4 z-10">
-          <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-emerald-100 text-emerald-900 border border-emerald-200 shadow-xs">
-            <span class="w-1.5 h-1.5 rounded-full bg-emerald-600 animate-pulse"></span>
-            Producto Destacado
-          </span>
+      <!-- Contenido del Artículo -->
+      <article class="prose prose-slate prose-lg max-w-none prose-headings:font-black prose-headings:tracking-tight prose-headings:text-emerald-950 prose-h2:text-2xl sm:prose-h2:text-3xl prose-h2:border-b prose-h2:border-emerald-200 prose-h2:pb-3 prose-h2:mt-12 prose-h3:text-xl prose-h3:text-emerald-900 prose-p:text-emerald-950/85 prose-p:leading-relaxed prose-li:text-emerald-950/85 prose-strong:text-emerald-950">
+        <Content />
+      </article>
+
+      <!-- Caja de Cierre / Transparencia de Afiliación -->
+      <aside class="mt-16 p-6 sm:p-8 rounded-3xl bg-emerald-100/50 border border-emerald-200 text-emerald-950">
+        <div class="flex flex-col sm:flex-row items-center sm:items-start gap-4 text-center sm:text-left">
+          <div class="w-12 h-12 rounded-2xl bg-emerald-600 text-white flex items-center justify-center text-xl flex-shrink-0 shadow-md shadow-emerald-600/30">
+            🛡️
+          </div>
+          <div>
+            <h3 class="text-base font-bold text-emerald-950 uppercase tracking-wider mb-1.5">
+              Criterio de Selección Independiente
+            </h3>
+            <p class="text-xs sm:text-sm text-emerald-900/80 leading-relaxed mb-3">
+              Nuestras recomendaciones se basan en especificaciones técnicas de laboratorio, pruebas empíricas y opiniones de usuarios contrastadas. Al comprar mediante los botones de Amazon de este artículo recibimos una pequeña comisión que nos permite mantener este proyecto sin patrocinios sesgados ni compromisos con marcas.
+            </p>
+            <span class="inline-flex items-center gap-1.5 text-xs font-bold text-emerald-800">
+              ✓ Precios y disponibilidades sincronizados periódicamente con Amazon.es.
+            </span>
+          </div>
         </div>
-        <img 
-          src={featuredImage} 
-          alt={frontmatter.title} 
-          class="w-auto max-h-80 sm:max-h-96 mx-auto object-contain rounded-2xl filter drop-shadow-md transition-transform duration-300 group-hover:scale-105"
-          loading="eager"
-        />
+      </aside>
+
+      <!-- Botón Volver -->
+      <div class="mt-12 pt-8 border-t border-emerald-200 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <a 
+          href="/" 
+          class="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-emerald-300 text-emerald-900 font-bold text-sm hover:bg-emerald-100 transition-all shadow-xs"
+        >
+          ← Volver a todas las comparativas
+        </a>
+        <span class="text-xs text-emerald-800/70">CompraMaestra · Análisis objetivos para decisiones inteligentes</span>
       </div>
-    </section>
-  )}
-
-  <!-- Contenedor del Cuerpo del Artículo Renderizado con Tailwind Typography y Tabla Comparativa -->
-  <div class="max-w-4xl mx-auto">
-    <article class="prose prose-slate prose-lg max-w-none prose-headings:font-black prose-headings:tracking-tight prose-headings:text-emerald-950 prose-h2:text-2xl sm:prose-h2:text-3xl prose-h2:border-b prose-h2:border-emerald-200 prose-h2:pb-3 prose-h2:mt-12 prose-h3:text-xl prose-h3:text-emerald-900 prose-p:text-emerald-950/85 prose-p:leading-relaxed prose-li:text-emerald-950/85 prose-strong:text-emerald-950">
-      <Content />
-    </article>
-
-    <!-- Caja de Cierre / Transparencia de Afiliación -->
-    <aside class="mt-16 p-6 sm:p-8 rounded-3xl bg-emerald-100/50 border border-emerald-200 text-emerald-950">
-      <div class="flex flex-col sm:flex-row items-center sm:items-start gap-4 text-center sm:text-left">
-        <div class="w-12 h-12 rounded-2xl bg-emerald-600 text-white flex items-center justify-center text-xl flex-shrink-0 shadow-md shadow-emerald-600/30">
-          🛡️
-        </div>
-        <div>
-          <h3 class="text-base font-bold text-emerald-950 uppercase tracking-wider mb-1.5">
-            Criterio de Selección Independiente
-          </h3>
-          <p class="text-xs sm:text-sm text-emerald-900/80 leading-relaxed mb-3">
-            Nuestras recomendaciones se basan en especificaciones técnicas de laboratorio, pruebas empíricas y opiniones de usuarios contrastadas. Al comprar mediante los botones de Amazon de este artículo recibimos una pequeña comisión que nos permite mantener este proyecto sin patrocinios sesgados ni compromisos con marcas.
-          </p>
-          <span class="inline-flex items-center gap-1.5 text-xs font-bold text-emerald-800">
-            ✓ Precios y disponibilidades sincronizados periódicamente con Amazon.es.
-          </span>
-        </div>
-      </div>
-    </aside>
-
-    <!-- Botón Volver -->
-    <div class="mt-12 pt-8 border-t border-emerald-200 flex flex-col sm:flex-row items-center justify-between gap-4">
-      <a 
-        href="/" 
-        class="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-emerald-300 text-emerald-900 font-bold text-sm hover:bg-emerald-100 transition-all shadow-xs"
-      >
-        ← Volver a todas las comparativas
-      </a>
-      <span class="text-xs text-emerald-800/70">CompraMaestra · Análisis objetivos para decisiones inteligentes</span>
     </div>
+
+    <!-- 3. Botón Flotante de Conversión (Mobile Sticky CTA) -->
+    {firstAmazonLink && (
+      <div class="fixed bottom-0 left-0 w-full z-50 p-3 bg-white/90 backdrop-blur border-t border-emerald-100 shadow-2xl md:hidden">
+        <a 
+          href={firstAmazonLink}
+          target="_blank"
+          rel="nofollow noopener noreferrer"
+          class="w-full bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white font-black text-sm py-3 px-4 rounded-xl shadow-lg shadow-orange-500/30 active:scale-[0.98] transition-all flex items-center justify-center gap-2"
+        >
+          <span>Consultar mejor opción en Amazon</span>
+          <span>🛒</span>
+        </a>
+      </div>
+    )}
   </div>
 </Layout>

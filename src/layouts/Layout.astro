@@ -4,9 +4,10 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description?: string;
+  schema?: Record<string, any>;
 }
 
-const { title, description = 'Análisis técnicos, guías y comparativas de compra honestas y directas.' } = Astro.props;
+const { title, description = 'Análisis técnicos, guías y comparativas de compra honestas y directas.', schema } = Astro.props;
 ---
 
 <!doctype html>
@@ -34,6 +35,11 @@ const { title, description = 'Análisis técnicos, guías y comparativas de comp
 
     <title>{title}</title>
     <meta name="description" content={description} />
+
+    {schema && (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    )}
+    <slot name="head" />
   </head>
   <body class="min-h-screen flex flex-col antialiased selection:bg-emerald-600 selection:text-white bg-emerald-50/60 text-emerald-950 font-sans">
     <!-- Encabezado / Navegación Sticky con efecto Glassmorphism -->
