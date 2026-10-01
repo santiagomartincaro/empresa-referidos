@@ -7,7 +7,10 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "investigate": "node scripts/amazon-investigator.mjs",
+    "investigate:diag": "node scripts/amazon-investigator.mjs --diag",
+    "investigate:all": "node scripts/amazon-investigator.mjs --all"
   },
   "dependencies": {
     "@astrojs/sitemap": "3.1.6",

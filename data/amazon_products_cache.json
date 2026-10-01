@@ -1,0 +1,79 @@
+{
+  "updatedAt": "2026-10-01T10:49:07.421Z",
+  "storeId": "compramaes09a-21",
+  "marketplace": "www.amazon.es",
+  "posts": {
+    "cafeteras-superautomaticas": {
+      "keyword_seo": "mejores cafeteras superautomaticas grano",
+      "categoria": "Cocina",
+      "tag_afiliado": "compramaes09a-21",
+      "lastCheck": "2026-10-01T10:49:19.781Z",
+      "status": "ACCOUNT_ELIGIBILITY_PENDING",
+      "items": [
+        {
+          "asin": "B00400OMU0",
+          "title": "Producto B00400OMU0 (mejores cafeteras superautomaticas grano)",
+          "brand": "",
+          "features": [],
+          "imageUrl": null,
+          "affiliateUrl": "https://www.amazon.es/dp/B00400OMU0?tag=compramaes09a-21",
+          "price": {
+            "amount": null,
+            "currency": "EUR",
+            "displayAmount": null,
+            "savings": null,
+            "savingsPercentage": null
+          },
+          "availability": {
+            "inStock": true,
+            "type": "UNKNOWN",
+            "message": "Consultar en Amazon"
+          },
+          "merchant": "Amazon"
+        },
+        {
+          "asin": "B07MMSHC4R",
+          "title": "Producto B07MMSHC4R (mejores cafeteras superautomaticas grano)",
+          "brand": "",
+          "features": [],
+          "imageUrl": null,
+          "affiliateUrl": "https://www.amazon.es/dp/B07MMSHC4R?tag=compramaes09a-21",
+          "price": {
+            "amount": null,
+            "currency": "EUR",
+            "displayAmount": null,
+            "savings": null,
+            "savingsPercentage": null
+          },
+          "availability": {
+            "inStock": true,
+            "type": "UNKNOWN",
+            "message": "Consultar en Amazon"
+          },
+          "merchant": "Amazon"
+        },
+        {
+          "asin": "B00I3YL5T0",
+          "title": "Producto B00I3YL5T0 (mejores cafeteras superautomaticas grano)",
+          "brand": "",
+          "features": [],
+          "imageUrl": null,
+          "affiliateUrl": "https://www.amazon.es/dp/B00I3YL5T0?tag=compramaes09a-21",
+          "price": {
+            "amount": null,
+            "currency": "EUR",
+            "displayAmount": null,
+            "savings": null,
+            "savingsPercentage": null
+          },
+          "availability": {
+            "inStock": true,
+            "type": "UNKNOWN",
+            "message": "Consultar en Amazon"
+          },
+          "merchant": "Amazon"
+        }
+      ]
+    }
+  }
+}
