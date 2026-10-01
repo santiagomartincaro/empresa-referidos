@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - La app móvil ofrece opciones de ecualización básica, siendo más cómodo usar el mando dedicado.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0HDC7ST1G.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/612-BnkB17L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0HDC7ST1G?tag=compramaes09a-21)
 

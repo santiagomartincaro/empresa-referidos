@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El imán es muy potente, por lo que conviene recordar retirarlo del carro al finalizar el juego.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0H4GN7R54.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71c4xm2ldML.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H4GN7R54?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Inversión ligeramente superior orientada a jugadores de hándicap medio y bajo.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0D3T2Q94Z.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61LgqaEwyhL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0D3T2Q94Z?tag=compramaes09a-21)
 

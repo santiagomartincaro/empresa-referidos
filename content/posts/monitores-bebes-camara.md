@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - La pantalla de 5.5 pulgadas requiere cargarse cada 1-2 días si se usa con el panel encendido continuo.
 
-![Imagen](https://m.media-amazon.com/images/P/B0DRFJFGY6.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61OH05ni68L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DRFJFGY6?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - La cámara motorizada de la cuna debe estar conectada a un enchufe de corriente.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FQVHNSDC.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61OHRhYg2DL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FQVHNSDC?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - En casas con muros de hormigón armado muy masivos el alcance por radiofrecuencia puede reducirse.
 
-![Imagen](https://m.media-amazon.com/images/P/B0DHWY75FW.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/715KsxdDDhL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DHWY75FW?tag=compramaes09a-21)
 

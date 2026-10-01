@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Los docks Thunderbolt 4 con fuente de alimentación dedicada tienen un precio acorde a su tecnología prémium.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CM3J7C1S.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61lZG+6zADL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CM3J7C1S?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - En ordenadores Mac con chips base M1/M2/M3 estándar la limitación nativa de Apple restringe la salida a una sola pantalla externa.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0G5Z4C8HC.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61ynvTD+CuL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0G5Z4C8HC?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El transformador de corriente externo tiene un tamaño considerable que suele dejarse oculto bajo el escritorio.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FRLVWT2D.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51Wg1R8qeaL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FRLVWT2D?tag=compramaes09a-21)
 

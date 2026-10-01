@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Al ser una estructura pesada de 14 kg, moverlo requiere algo de esfuerzo respecto a bancos de tijera.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GJM7FR2K.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71-4DJGRFhL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GJM7FR2K?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Para personas de más de 1.90 m la longitud del respaldo puede quedar ligeramente justa en posición plana.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B09V8BNQSZ.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71c-zmsrR5L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B09V8BNQSZ?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Su límite de 120 kg no es adecuado para atletas avanzados que muevan cargas elevadas de mancuernas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CLRYN7BX.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51+TZ+MdQkL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CLRYN7BX?tag=compramaes09a-21)
 

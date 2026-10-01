@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Las estaciones de más de 3000W superan los 25 kg de peso debido a la masa de sus celdas de litio.
 
-![Imagen](https://m.media-amazon.com/images/P/B0HBB818VF.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71DTs0AEzeL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0HBB818VF?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El panel solar requiere orientación directa hacia el sol despejado para alcanzar su potencia máxima.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H8SDLQVQ.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71GRJjDY1wL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H8SDLQVQ?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Inversión económica importante que compensa frente a compras continuas de combustible fósil.
 
-![Imagen](https://m.media-amazon.com/images/P/B0HBBJC6RL.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61Rmfqv0wUL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0HBBJC6RL?tag=compramaes09a-21)
 

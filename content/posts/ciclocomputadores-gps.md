@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - La personalización avanzada de campos de datos requiere configurarse desde la app móvil para mayor comodidad.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GVP3JWHH.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61UiEWF4YRL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GVP3JWHH?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - No dispone de navegación avanzada con mapa vectorial, orientándose al seguimiento por track tipo migas de pan.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0G38WGDB9.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61LOC0tig5L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0G38WGDB9?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El tamaño de pantalla de 2.4 pulgadas puede resultar algo ajustado para visualizar mapas muy complejos con mucho zoom.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GVN29DW5.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/610UPkHX8KL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GVN29DW5?tag=compramaes09a-21)
 

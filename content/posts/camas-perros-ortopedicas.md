@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Al venir envasada al vacío, la espuma requiere de 24 a 48 horas para expandirse a su volumen definitivo.
 
-![Imagen](https://m.media-amazon.com/images/P/B08LPTHKNS.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71bsEBphrrL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B08LPTHKNS?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Aunque las telas son muy resistentes, ninguna cama de tela resiste si el perro tiene ansiedad por morder intensamente.
 
-![Imagen](https://m.media-amazon.com/images/P/B06XQ492N8.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61cCGmQ2-pL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B06XQ492N8?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Ocupa un espacio considerable en el salón debido a sus dimensiones para razas grandes.
 
-![Imagen](https://m.media-amazon.com/images/P/B0CJ2WXVQZ.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71wQ-31OysL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CJ2WXVQZ?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Requiere cobertura de red WiFi estable de 2.4 GHz en el techo donde se instale.
 
-![Imagen](https://m.media-amazon.com/images/P/B0DWWYCGNF.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/718UJtIMKlL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DWWYCGNF?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - No debe colocarse directamente encima de los fogones de cocina para evitar humo de frituras.
 
-![Imagen](https://m.media-amazon.com/images/P/B0BMQ52BC8.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71wnRFWoAdL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0BMQ52BC8?tag=compramaes09a-21)
 

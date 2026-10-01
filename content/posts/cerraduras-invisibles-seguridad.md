@@ -67,7 +67,7 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - La sensibilidad del sensor de vibraciones debe calibrarse bien para evitar falsas alarmas con portazos de vecinos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B08D6LLGNS.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/615Uu5cfWZL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B08D6LLGNS?tag=compramaes09a-21)
 

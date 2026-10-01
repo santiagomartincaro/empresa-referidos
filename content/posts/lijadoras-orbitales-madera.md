@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Al lijar en interiores siempre se recomienda conectar un aspirador externo para una retención del 99% del polvo.
 
-![Imagen](https://m.media-amazon.com/images/P/B0CWQS93JQ.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71brLOGEz2L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CWQS93JQ?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Es conveniente limpiar el velcro del plato con un cepillo para que las lijas no pierdan adherencia.
 
-![Imagen](https://m.media-amazon.com/images/P/B0CYYWY1C2.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/81Wy1YlkHzL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CYYWY1C2?tag=compramaes09a-21)
 

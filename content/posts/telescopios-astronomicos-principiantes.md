@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Para observar nebulosas lejanas o galaxias muy profundas se requiere cielos muy oscuros sin contaminación lumínica.
 
-![Imagen](https://m.media-amazon.com/images/P/B0CG7PNPCB.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/710QM6w7JDL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CG7PNPCB?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El trípode a máxima extensión debe manipularse con suavidad para evitar vibraciones momentáneas.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H93BF2ST.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71aFaLrSwhL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H93BF2ST?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El adaptador de móvil requiere unos minutos de ajuste inicial para centrar la cámara con la pupila de salida.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FSJ4P2MR.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/814GldFg-FL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FSJ4P2MR?tag=compramaes09a-21)
 

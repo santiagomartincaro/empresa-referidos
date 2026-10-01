@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Los modelos de cambio de poleas requieren abrir la tapa superior para variar la velocidad.
 
-![Imagen](https://m.media-amazon.com/images/P/B081NFV2QT.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/717eGmMX+CL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B081NFV2QT?tag=compramaes09a-21)
 

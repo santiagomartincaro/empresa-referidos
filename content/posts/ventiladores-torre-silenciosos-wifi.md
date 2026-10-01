@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - A máxima velocidad (nivel 6) el flujo de aire es potente y genera el sonido aerodinámico lógico del viento.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GZKC1FVW.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61Mu1LeROJL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GZKC1FVW?tag=compramaes09a-21)
 

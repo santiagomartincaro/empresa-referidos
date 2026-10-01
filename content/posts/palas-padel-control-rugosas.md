@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Para jugadores ofensivos que buscan rematar plano por encima de la verja requiere técnica depurada de brazo.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FKH5HZXJ.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61-FwkfS8bL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FKH5HZXJ?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - La potencia pura en remate de potencia está limitada por su balance bajo.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0HG1L21LR.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61ZUU5Xv6pL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0HG1L21LR?tag=compramaes09a-21)
 

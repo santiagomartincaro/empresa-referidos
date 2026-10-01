@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - La instalación puede requerir un adaptador de cableado ISO específico de la marca de tu coche.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H9YR53N6.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71uhLW-lGSL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H9YR53N6?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - En salpicaderos con salidas de aire muy bajas la pantalla grande puede tapar parcialmente alguna rejilla.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H87TSSQS.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/710egnVBQnL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H87TSSQS?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Se recomienda comprobar las medidas exactas del hueco central antes de realizar el montaje.
 
-![Imagen](https://m.media-amazon.com/images/P/B0DPN6JDG8.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71UvHH65x5L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DPN6JDG8?tag=compramaes09a-21)
 

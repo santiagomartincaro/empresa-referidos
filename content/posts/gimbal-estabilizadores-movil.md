@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El despliegue con giro de la barra extensible requiere un par de usos para familiarizarse con el movimiento.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0F671CKSW.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51DpRCzgUPL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F671CKSW?tag=compramaes09a-21)
 

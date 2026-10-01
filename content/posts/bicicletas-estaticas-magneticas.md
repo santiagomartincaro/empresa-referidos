@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Para personas que midan más de 1.90 m la extensión de pierna puede quedarse algo corta.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H3V7VVY6.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/81FD6s-LYoL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H3V7VVY6?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El monitor LCD básico requiere dos pilas AAA para funcionar.
 
-![Imagen](https://m.media-amazon.com/images/P/B0F4QV2BV1.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61gY89GmuGL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F4QV2BV1?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - No está pensada para ponerse de pie sobre los pedales en sprints muy agresivos tipo ciclo indoor profesional.
 
-![Imagen](https://m.media-amazon.com/images/P/B0F3T7Y569.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71d6lWwPwVL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F3T7Y569?tag=compramaes09a-21)
 

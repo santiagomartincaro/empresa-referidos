@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Pesa alrededor de 48 kg, por lo que requiere un suelo firme aunque cuenta con ruedas de transporte.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0H2HHKF7G.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71mIbFAPrGL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H2HHKF7G?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - La anchura de tapiz de 42 cm es ideal para trote y ritmos medios, pero algo justa para sprints muy desbocados.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GF7PGL3T.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71ROoAXQfPL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GF7PGL3T?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Volumen plegada superior al de modelos ultraplanos, requiriendo un espacio de almacenaje dedicado.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FXGNWWB5.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71ov-XmAsgL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FXGNWWB5?tag=compramaes09a-21)
 

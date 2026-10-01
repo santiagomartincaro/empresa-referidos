@@ -67,7 +67,7 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Perfil de altura elevado que hace muy recomendable utilizar un reposamuñecas acolchado.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0H5JNDS8T.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71i9K3HdCjL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H5JNDS8T?tag=compramaes09a-21)
 

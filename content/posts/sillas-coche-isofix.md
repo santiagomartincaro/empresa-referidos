@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Pesa alrededor de 12-14 kg, por lo que está pensada para dejarla instalada fija en el vehículo.
 
-![Imagen](https://m.media-amazon.com/images/P/B0C6DW1WDL.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71-nh-BpT-L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0C6DW1WDL?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - En coches utilitarios pequeños, la posición a contramarcha puede restar espacio al asiento del copiloto.
 
-![Imagen](https://m.media-amazon.com/images/P/B0GRFL812F.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/81GvjzvVM5L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GRFL812F?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El cinturón Top Tether superior debe desengancharse si deseas realizar un giro completo en ciertas configuraciones.
 
-![Imagen](https://m.media-amazon.com/images/P/B0GRFX6HKC.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71Oa43tOZpL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GRFX6HKC?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Debe utilizarse como complemento a la educación y refuerzo positivo con premios, nunca como castigo.
 
-![Imagen](https://m.media-amazon.com/images/P/B0GWQNBCXL.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61nK3VvFchL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GWQNBCXL?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - No debe dejarse colocado en el cuello del perro más de 8-10 horas seguidas para no rozar la piel.
 
-![Imagen](https://m.media-amazon.com/images/P/B0GTVC81VP.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71hInQlYUML.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GTVC81VP?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Requiere que el collar quede ajustado tocando el cuello pero permitiendo meter dos dedos con holgura.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H7VXKSG5.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/713ZPcWqqzL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H7VXKSG5?tag=compramaes09a-21)
 

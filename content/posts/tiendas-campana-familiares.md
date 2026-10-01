@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El montaje requiere preferiblemente la colaboración de dos personas para levantar la estructura con agilidad.
 
-![Imagen](https://m.media-amazon.com/images/P/B0F5WY4Q5F.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61eXVx8SmfL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F5WY4Q5F?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Antes de guardarla en su bolsa tras las vacaciones es fundamental asegurarse de que el tejido esté completamente seco.
 
-![Imagen](https://m.media-amazon.com/images/P/B0F5WXM9WC.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71-ppOUGK-L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F5WXM9WC?tag=compramaes09a-21)
 

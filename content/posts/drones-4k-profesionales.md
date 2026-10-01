@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - La app móvil requiere un teléfono con soporte de conectividad WiFi 5 GHz.
 
-![Imagen](https://m.media-amazon.com/images/P/B0GZ3VZMKV.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71ZmFrxEesL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GZ3VZMKV?tag=compramaes09a-21)
 

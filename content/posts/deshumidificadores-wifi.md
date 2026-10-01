@@ -92,7 +92,7 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Rendimiento óptimo acotado a habitaciones de hasta 25-30 m².
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B09Q24NSNK.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51duBISmmGL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B09Q24NSNK?tag=compramaes09a-21)
 

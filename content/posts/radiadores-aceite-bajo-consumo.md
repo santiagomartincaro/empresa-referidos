@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - La superficie de las aletas de acero se calienta notablemente, por lo que conviene vigilar con niños muy pequeños.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B09HKXL6BM.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51D5yTaMgVL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B09HKXL6BM?tag=compramaes09a-21)
 

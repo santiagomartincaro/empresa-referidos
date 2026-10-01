@@ -42,7 +42,7 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Precio superior al promedio y nivel sonoro más contundente debido a la fuerza del pistón industrial.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FNX6PMRR.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71wEIE2CsOL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FNX6PMRR?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - No incluye estuche rígido de transporte de serie en la caja.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CDHLKJ2H.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51fC0nTOlsL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CDHLKJ2H?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Las unidades con compresor integrado tienen un tamaño algo mayor que los arrancadores planos.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H4KNVJ99.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61kiscSe8VL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H4KNVJ99?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Se recomienda recargar el dispositivo tras realizar dos o tres arranques consecutivos.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H6HQWJQ7.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61wyrN5JBNL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H6HQWJQ7?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - No sustituye a una batería nueva si la original tiene un vaso interno comunicado permanentemente.
 
-![Imagen](https://m.media-amazon.com/images/P/B0F4C96KZG.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71nF2UW7bKL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F4C96KZG?tag=compramaes09a-21)
 

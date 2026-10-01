@@ -42,7 +42,7 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - El mástil de montaje exterior requiere fijarse a una superficie muy estable para evitar oscilaciones en la lectura de viento.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0H75J4698.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71+gSPymbrL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H75J4698?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Curva de configuración inicial más técnica para sincronizar los canales de servidores meteorológicos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07ZJK8644.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51wVL4nP6bL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B07ZJK8644?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Requiere un período de adaptación de 2 o 3 días para acostumbrarse a la nueva posición de agarre.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0DFBV17B1.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/618-YKhXsgL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DFBV17B1?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - En manos excesivamente pequeñas (menos de 16 cm) algunos botones laterales pueden quedar algo adelantados.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0D12PGGKK.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/511qcVCPKbL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0D12PGGKK?tag=compramaes09a-21)
 

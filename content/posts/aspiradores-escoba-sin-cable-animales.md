@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - A máxima potencia (50 kPa) la batería se consume en unos 15-20 minutos, siendo ideal reservarla para alfombras difíciles.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0H39GWL74.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71qTkvytOsL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H39GWL74?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El tubo flexible requiere manejarse con suavidad para proteger la articulación central con los años.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0D1KCLVPX.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61mMhLs15XL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0D1KCLVPX?tag=compramaes09a-21)
 

@@ -67,7 +67,7 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - No incorpora función térmica en las articulaciones.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CGRK4CDV.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/818u5-MxmAL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CGRK4CDV?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Equipo más voluminoso que exige tener espacio fijo junto al sofá o la cama.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07VBG4M47.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61S6SjruByS.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B07VBG4M47?tag=compramaes09a-21)
 

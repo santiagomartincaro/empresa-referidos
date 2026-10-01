@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - El estuche de los kits básicos no incluye batería de recarga interna integrada.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CNW3V4GY.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71wDNAhmKLL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CNW3V4GY?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El volumen de ganancia conviene calibrarlo en el móvil para evitar saturaciones en voces muy altas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0F6XYVRTC.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71ocj-8BoKL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F6XYVRTC?tag=compramaes09a-21)
 

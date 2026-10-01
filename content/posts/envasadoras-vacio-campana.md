@@ -67,7 +67,7 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - La longitud máxima de la barra de sellado (25 cm) limita bolsas de tamaño extra grande para piezas enteras de jamón.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07RHQ338J.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51HPUy-++BL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B07RHQ338J?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Para envasar líquidos puros exige congelar previamente los caldos o usar recipientes de vacío rígidos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0D97B9669.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71Wgi6t63fL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0D97B9669?tag=compramaes09a-21)
 

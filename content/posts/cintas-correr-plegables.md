@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Las cintas tipo walking pad planas limitan su velocidad a 6 km/h, pensadas para andar rápido o trote suave.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H7VKZW5J.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61zxBH5jYLL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H7VKZW5J?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Requiere añadir unas gotas de lubricante de silicona bajo el tapiz cada 2-3 meses de uso intensivo.
 
-![Imagen](https://m.media-amazon.com/images/P/B0GF7PGL3T.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71ROoAXQfPL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GF7PGL3T?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El modelo con inclinación eléctrica tiene un peso algo superior para moverlo a diario.
 
-![Imagen](https://m.media-amazon.com/images/P/B0GZ32CH84.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61VCE8zNPGL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GZ32CH84?tag=compramaes09a-21)
 

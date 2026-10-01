@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Al ser una pesa regulable, no debe arrojarse bruscamente contra el suelo desde gran altura.
 
-![Imagen](https://m.media-amazon.com/images/P/B08RXGPFL4.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/51BreQWblPL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B08RXGPFL4?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El tamaño exterior del cuerpo es el mismo aunque selecciones los pesos más ligeros.
 
-![Imagen](https://m.media-amazon.com/images/P/B0D9LK46LX.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61zSTWnbsAL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0D9LK46LX?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El mecanismo debe mantenerse limpio de arena o polvo exterior para conservar su suavidad.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FW4YW6X5.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61w58KCW7zL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FW4YW6X5?tag=compramaes09a-21)
 

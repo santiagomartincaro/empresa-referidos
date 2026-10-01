@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - A máximos aumentos (60x-75x) cualquier mínimo temblor de la mano se nota, por lo que es vital usar trípode estable.
 
-![Imagen](https://m.media-amazon.com/images/P/B073ZD3RPC.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61Hvs4WlFhL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B073ZD3RPC?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El trípode de sobremesa incluido es útil para apoyar en mesas o capós, pero para el campo se recomienda un trípode alto de suelo.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FZ88PNSR.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/618MS1jy5jL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FZ88PNSR?tag=compramaes09a-21)
 

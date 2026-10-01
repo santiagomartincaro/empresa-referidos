@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - En entornos ruidosos como túneles de metro el volumen percibido es inferior al de auriculares cerrados.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0H9DDFQSR.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61LaE7cPMaL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H9DDFQSR?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Las vibraciones en las sienes a volumen máximo pueden resultar una sensación extraña al principio.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0HJG4HSQJ.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/616Y0gLW9GL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0HJG4HSQJ?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El estuche de carga es ligeramente más ancho para dar cabida a los ganchos anatómicos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FHQJRRS4.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51lUjVJTNgL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FHQJRRS4?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Al ser micrófonos tan diminutos como un botón se debe tener cuidado de guardarlos siempre en su estuche para no perderlos.
 
-![Imagen](https://m.media-amazon.com/images/P/B0CP7P4RRQ.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71enGNvpFyL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CP7P4RRQ?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - La cancelación de ruido muy agresiva en ambientes extremos puede recortar levemente los agudos de la voz.
 
-![Imagen](https://m.media-amazon.com/images/P/B0DDC9Q1NY.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/81Y7uWa-yBL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DDC9Q1NY?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - El cambio de discos requiere desenroscar las tuercas de bloqueo, siendo algo más lento que los sistemas de dial automático.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CQP9F2J9.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61+7IYjiqsL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CQP9F2J9?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - No deben dejarse caer bruscamente desde altura para preservar los dientes internos del dial.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GJ61RH56.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/813G91Zl9UL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GJ61RH56?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - La bandeja base ocupa un poco más de fondo debido a la disposición horizontal de las placas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GX968ZXZ.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71oBHqs8AaL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GX968ZXZ?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - El plumón natural exige guardarse suelto o en bolsa grande de almacenamiento cuando se llega a casa para no apelmazarse.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FMY6ZHYJ.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71IMa1oAsZL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FMY6ZHYJ?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - En caso de lluvia directa prolongada o inmersión en agua el plumón pierde capacidad térmica hasta secarse.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FMY47V3T.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71IMa1oAsZL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FMY47V3T?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Su precio es superior al de los sacos sintéticos de fibra de poliéster convencional.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FMY2XJLP.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61cqFtyQcPL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FMY2XJLP?tag=compramaes09a-21)
 

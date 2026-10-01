@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - En jardines con muros de piedra muy altos la señal satelital puede requerir ajustes.
 
-![Imagen](https://m.media-amazon.com/images/P/B0CXDNFZLL.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61GGdI6k8VL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CXDNFZLL?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Inversión inicial superior a la de los modelos antiguos con cable tradicional.
 
-![Imagen](https://m.media-amazon.com/images/P/B0GJ5T8DRC.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71GYdtiNSWL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GJ5T8DRC?tag=compramaes09a-21)
 

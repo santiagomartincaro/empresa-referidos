@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Al incorporar dos tanques de agua y batería su peso total en vacío ronda los 4.5 kg.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0DPHT4KB1.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51dc1v8Xm7L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DPHT4KB1?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - No está pensada para alfombras de pelo largo en modo de agua (se usa en modo succión en seco).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FYFJJQZZ.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61hnCJ6fJ6L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FYFJJQZZ?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El depósito de agua sucia debe vaciarse al terminar la sesión para evitar que el agua estancada genere olor.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0DJ7JRJJM.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61b6edPH-bL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DJ7JRJJM?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Requiere oscurecer la estancia para disfrutar del máximo contraste en diagonales de más de 100".
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GWZPJHCB.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71L5y01C3uL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GWZPJHCB?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El ventilador interno emite un murmullo suave perceptible en escenas de silencio absoluto.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0DHG8XRVV.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71uFGHbBEWL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DHG8XRVV?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - No se aconseja la posición mirando hacia afuera durante períodos largos para evitar sobreestimulación.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FGD6WXR2.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61lfdnTBGnL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FGD6WXR2?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El modelo con asiento rígido de cadera ocupa más volumen dentro de una bolsa de paseo.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FX989VP1.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71Ozk1Td6AL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FX989VP1?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Requiere regular bien la altura del cinturón en la pelvis para descargar bien el peso lumbar.
 
-![Imagen](https://m.media-amazon.com/images/P/B0D94SXBFR.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/81QG3GounzL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0D94SXBFR?tag=compramaes09a-21)
 

@@ -67,7 +67,7 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Al ser redondo, deja un pequeño triángulo sin cubrir en las esquinas de los marcos de las ventanas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0HFS98HNT.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61zj8c0oIBL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0HFS98HNT?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Cable de alimentación obligatorio durante el funcionamiento (la batería interna solo actúa como sistema anticaída).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GWD6FC8H.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/716vEEltvPL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GWD6FC8H?tag=compramaes09a-21)
 

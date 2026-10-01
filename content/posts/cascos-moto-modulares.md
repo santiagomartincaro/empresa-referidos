@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El modelo de fibra de carbono exige una inversión superior justificada por sus materiales nobles.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H49YWSYC.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/51whR8O4kmL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H49YWSYC?tag=compramaes09a-21)
 

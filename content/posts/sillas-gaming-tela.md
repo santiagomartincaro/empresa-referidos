@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El reposapiés está pensado para apoyar las piernas, no para sentarse directamente sobre él.
 
-![Imagen](https://m.media-amazon.com/images/P/B0BZYFPD3W.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71dKAoZ5-+L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0BZYFPD3W?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Los reposabrazos no son 4D multidireccionales en los modelos de gama de entrada.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H7S95VZJ.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61I7zvSHCvL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H7S95VZJ?tag=compramaes09a-21)
 

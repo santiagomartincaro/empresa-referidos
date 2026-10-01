@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Su peso ronda los 24-26 kg, por lo que subirlo por escaleras requiere esfuerzo físico.
 
-![Imagen](https://m.media-amazon.com/images/P/B0DL35ML1N.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/714g-0xYCtL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DL35ML1N?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El cargador de batería es algo voluminoso para transportarlo en un bolsillo.
 
-![Imagen](https://m.media-amazon.com/images/P/B0HK461FPB.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71r4s4zCl8L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0HK461FPB?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Requiere revisar periódicamente la presión de los neumáticos de 10 pulgadas.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H2VNSBK8.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71mpOWVITUL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H2VNSBK8?tag=compramaes09a-21)
 

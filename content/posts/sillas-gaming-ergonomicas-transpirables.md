@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Los reposabrazos articulados no cuentan con regulación en 3D (giro lateral y profundidad).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0BZYFPD3W.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71dKAoZ5-+L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0BZYFPD3W?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El cable USB del cojín de masaje requiere tener un cargador o puerto USB cercano para funcionar.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0DS19QJ9W.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61yjcrxzRuL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DS19QJ9W?tag=compramaes09a-21)
 

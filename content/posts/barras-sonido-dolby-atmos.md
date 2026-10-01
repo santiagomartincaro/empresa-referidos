@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Los satélites traseros requieren conectarse por cable entre sí o a su receptor.
 
-![Imagen](https://m.media-amazon.com/images/P/B0F6NK5773.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61oxYJ3FBgL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F6NK5773?tag=compramaes09a-21)
 

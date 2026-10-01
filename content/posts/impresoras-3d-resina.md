@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Requiere trabajar en un espacio ventilado y utilizar guantes y alcohol isopropílico para el curado.
 
-![Imagen](https://m.media-amazon.com/images/P/B0DT8V7CV8.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61JaisR23mL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DT8V7CV8?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Los archivos de corte 16K ocupan un tamaño elevado en memoria USB.
 
-![Imagen](https://m.media-amazon.com/images/P/B0D2R5T2SJ.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71H8pbZmM7L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0D2R5T2SJ?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El cambio de lámina FEP o PFA exige cierta meticulosidad en los tornillos.
 
-![Imagen](https://m.media-amazon.com/images/P/B0GF1LC4TK.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71id3IBEEUL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GF1LC4TK?tag=compramaes09a-21)
 

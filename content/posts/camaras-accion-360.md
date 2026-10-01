@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Los archivos de vídeo 8K requieren un smartphone o PC potente para procesarse con agilidad.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FQNWDYMS.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71wRONQ+IwL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FQNWDYMS?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Las lentes esféricas convexas de las cámaras 360 deben protegerse de caídas en asfalto.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H5CJRJV7.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/617PvWNPKNL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H5CJRJV7?tag=compramaes09a-21)
 

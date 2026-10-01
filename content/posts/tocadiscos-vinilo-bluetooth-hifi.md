@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - El conjunto con los dos altavoces de estantería requiere un mueble con suficiente anchura libre.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07H8XFNP8.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71lMqIOpaRL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B07H8XFNP8?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - No cuenta con salida USB para digitalizar vinilos directamente al ordenador.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GFG86MCK.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61XF-0Kd7WL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GFG86MCK?tag=compramaes09a-21)
 

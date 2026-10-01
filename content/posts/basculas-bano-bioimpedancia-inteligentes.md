@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Para utilizar la barra de 8 electrodos se requiere una postura erguida correcta sosteniendo el manillar con los brazos rectos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B09XVBKN4Z.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61MlwyrxGmL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B09XVBKN4Z?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - No debe utilizarse por personas con marcapasos u otros implantes médicos electrónicos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FQJQ2HSV.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71C8qgp4XzL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FQJQ2HSV?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El suelo del baño debe ser totalmente plano y duro (no colocar sobre alfombrillas) para no alterar el peso.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0F6CLT4WZ.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/7176LhJOU4L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F6CLT4WZ?tag=compramaes09a-21)
 

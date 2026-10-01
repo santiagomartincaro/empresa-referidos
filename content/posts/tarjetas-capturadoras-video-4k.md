@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Requiere un ordenador con procesador y tarjeta gráfica solventes para codificar vídeo a 1080p60 en tiempo real.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CM9C91MK.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71G+A1I5sCL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CM9C91MK?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El modelo compacto tipo dongle no dispone de salida de bucle HDMI para monitor secundario.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FSXCQHB3.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71ZKx4D09kL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FSXCQHB3?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Con cables HDMI de mala calidad o demasiado largos puede perderse la señal 4K60.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CFQ2BMPZ.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61YYkY3FY-L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CFQ2BMPZ?tag=compramaes09a-21)
 

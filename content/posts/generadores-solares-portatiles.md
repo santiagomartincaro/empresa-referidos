@@ -42,7 +42,7 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Ventilador audible bajo demanda constante y capacidad ajustada para conectar electrodomésticos térmicos de alto consumo.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0F9FN228S.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/81EsBcAUUxL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F9FN228S?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Inversor de 300W nominales que limita arrancar motores de compresión pesados sin el modo boost.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0BFQC1CNQ.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/51eb1TkozZL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0BFQC1CNQ?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Peso de 12 kg que restringe transportarlo a mano en caminatas largas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0B9XB57XM.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61OTWEJPx-L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0B9XB57XM?tag=compramaes09a-21)
 

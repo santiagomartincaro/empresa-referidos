@@ -42,7 +42,7 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Ocupa un espacio considerable en el suelo y requiere arena aglomerante fina para que el tamiz funcione con total fluidez.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0HGRSHK91.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/41P+O7K6x+L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0HGRSHK91?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Borde de entrada ligeramente alto que puede exigir rampa para gatos de patas cortas o ancianos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0D9QJZ7FG.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71kCToDzBUL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0D9QJZ7FG?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Exige recambios específicos de bolsas de carbón para mantener el sellado total de olores.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0GTYCSCWT.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71AzNKoI58L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GTYCSCWT?tag=compramaes09a-21)
 

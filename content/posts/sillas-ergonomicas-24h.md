@@ -42,7 +42,7 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - El borde delantero del asiento de malla requiere ajustarse bien a la altura de las rodillas para no presionar los muslos.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07BDFW1Y7.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61BOnde2eYL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B07BDFW1Y7?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - Los reposabrazos únicamente se desplazan hacia arriba y abajo (sin giro ni desplazamiento horizontal).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B07GNDDNMW.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61nb9ErcVpL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B07GNDDNMW?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ Si bien su inversión de entrada es superior a la media, el retorno en fiabilida
 ### Contras
 - Dimensiones considerables de la base que demandan espacio despejado en despachos pequeños.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CH7RBQQ7.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61L8eCtWCFL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CH7RBQQ7?tag=compramaes09a-21)
 

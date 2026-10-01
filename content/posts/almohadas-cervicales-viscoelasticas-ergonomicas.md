@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Al desembalar al vacío requiere unas 24 a 48 horas para expandirse al 100% y ventilar el característico aroma inicial a espuma nueva.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FPCLL5KS.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61ohO1w0YmL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FPCLL5KS?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - Requiere un par de noches de adaptación si vienes de almohadas tradicionales de plumas o fibra blanda.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FPF4WN73.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61LlmLD3nKL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FPF4WN73?tag=compramaes09a-21)
 

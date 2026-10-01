@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Las estaciones todo en uno con tabla ocupan un espacio vertical fijo en el cuarto de la colada o armario.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CZXS22P9.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/41SeI5+MrsL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CZXS22P9?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El sonido de bombeo de agua cuando genera vapor a alta presión es característico de estos sistemas.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0CQK94X98.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/31GWbAevANL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0CQK94X98?tag=compramaes09a-21)
 

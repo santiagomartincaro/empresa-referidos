@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Los equipos de flujo directo requieren un enchufe eléctrico cercano bajo el fregadero.
 
-![Imagen](https://m.media-amazon.com/images/P/B0GWM7XXQ1.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61t-LQhUmiL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0GWM7XXQ1?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - La instalación inicial requiere taladrar el desagüe para la abrazadera de rechazo.
 
-![Imagen](https://m.media-amazon.com/images/P/B0HG15CG2J.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61FrBcPqRqL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0HG15CG2J?tag=compramaes09a-21)
 

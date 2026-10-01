@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Para que la carga funcione a máxima velocidad requiere utilizar un transformador de pared de al menos 30W.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0DT4GMTGG.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/613yh2jBEaL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0DT4GMTGG?tag=compramaes09a-21)
 

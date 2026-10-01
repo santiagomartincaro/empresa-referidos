@@ -42,7 +42,7 @@ Durante las pruebas de esfuerzo continuo, destaca por mantener su rendimiento si
 ### Contras
 - Dimensiones físicas del chasis imponentes (requiere un mueble bajo de televisión suficientemente profundo).
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0HFZCD8LW.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71zVCHNQ3NL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0HFZCD8LW?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ A nivel de ergonomía e integración en el hogar o entorno de trabajo, su arquit
 ### Contras
 - El sistema operativo basado en Android TV requiere conectar un Fire TV o Apple TV para ver Netflix en 4K nativo.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0F2HXGZ2R.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61V83IrlmrL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F2HXGZ2R?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Requiere sartenes y ollas con fondo ferromagnético aptas para inducción.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FKT14CJN.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61VZHbAS+FL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FKT14CJN?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El ventilador interno emite un zumbido perceptible mientras está en funcionamiento.
 
-![Imagen](https://m.media-amazon.com/images/P/B0F268CQD5.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61GMT0kQh6L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0F268CQD5?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El modelo de dos fuegos requiere una superficie de mesa más ancha.
 
-![Imagen](https://m.media-amazon.com/images/P/B0BJ1Q3HWZ.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/51Xqkcq1O7L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0BJ1Q3HWZ?tag=compramaes09a-21)
 

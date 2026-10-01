@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Para mantener peces tropicales de aguas cálidas (como bettas o tetras) se aconseja añadir un calentador de 25-50W.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H267MF2D.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/818UFKnp13L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H267MF2D?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El cristal requiere limpiarse con imán o rasqueta de plástico suave para no rayarlo con algas.
 
-![Imagen](https://m.media-amazon.com/images/P/B0BQBRQDMP.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71Et+vlSOaL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0BQBRQDMP?tag=compramaes09a-21)
 

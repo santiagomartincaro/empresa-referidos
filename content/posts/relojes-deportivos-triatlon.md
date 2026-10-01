@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - La app de Amazfit no cuenta con tantas métricas de triatlón complejas como Garmin.
 
-![Imagen](https://m.media-amazon.com/images/P/B0G1ZGK7MV.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61XYPdCg-aL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0G1ZGK7MV?tag=compramaes09a-21)
 

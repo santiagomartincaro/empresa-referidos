@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Mesas con tableros de nido de abeja muy huecos requieren colocar una placa de refuerzo en la pinza.
 
-![Imagen](https://m.media-amazon.com/images/P/B01MR397OH.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/61cA+ne40xL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B01MR397OH?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - El modelo de pistón de gas requiere ajustar la tensión del muelle según el peso del monitor.
 
-![Imagen](https://m.media-amazon.com/images/P/B09Q8TG4ZB.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/51glHIwH15L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B09Q8TG4ZB?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - Asegúrate de que tus pantallas tengan los 4 orificios VESA traseros para atornillar la placa.
 
-![Imagen](https://m.media-amazon.com/images/P/B07ZNGT8K4.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/615XhbwYneL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B07ZNGT8K4?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - La primera instalación requiere unos 20 minutos y ajustar con la llave allen la tensión según el peso de cada pantalla.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FJDG6FB7.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/61vDjJH77wL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FJDG6FB7?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - No es apto para mesas de cristal templado fino sin placas protectoras de distribución de peso.
 
-![Imagen del producto](https://m.media-amazon.com/images/P/B0FKTF1KJ5.01._SCLZZZZZZZ_.jpg)
+![Imagen del producto](https://m.media-amazon.com/images/I/71JCgm4ALwL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FKTF1KJ5?tag=compramaes09a-21)
 

@@ -42,7 +42,7 @@ Durante nuestras pruebas de esfuerzo continuado, ha demostrado una estabilidad n
 ### Contras
 - Para disfrutar del máximo contraste exterior se aconseja proyectar sobre pantalla blanca o lona opaca.
 
-![Imagen](https://m.media-amazon.com/images/P/B0H25FV8MM.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/7122yO5195L.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0H25FV8MM?tag=compramaes09a-21)
 
@@ -67,7 +67,7 @@ En situaciones reales de uso, destaca por su agilidad y por una integración lim
 ### Contras
 - A máxima potencia de brillo los ventiladores expulsan aire caliente por las rejillas laterales.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FFSQK3DD.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/71Z9rDp5TbL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FFSQK3DD?tag=compramaes09a-21)
 
@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - No incluye batería interna, requiriendo un alargador de corriente o estación de energía portátil.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FVM7LL7W.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/811KxNNgctL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FVM7LL7W?tag=compramaes09a-21)
 

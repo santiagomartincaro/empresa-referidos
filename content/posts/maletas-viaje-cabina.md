@@ -92,7 +92,7 @@ A nivel de eficiencia y rendimiento práctico, ofrece un funcionamiento impecabl
 ### Contras
 - El modelo extensible puede superar los 20 cm de grosor si se abre la cremallera de expansión.
 
-![Imagen](https://m.media-amazon.com/images/P/B0FXXTC5K4.01._SCLZZZZZZZ_.jpg)
+![Imagen](https://m.media-amazon.com/images/I/81UOVVW82bL.jpg)
 
 [Consultar precio en Amazon](https://www.amazon.es/dp/B0FXXTC5K4?tag=compramaes09a-21)
 
