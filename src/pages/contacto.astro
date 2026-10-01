@@ -68,7 +68,19 @@ import Layout from '../layouts/Layout.astro';
           </p>
         </div>
 
-        <form id="contact-form" class="space-y-5" onsubmit="event.preventDefault(); document.getElementById('form-success-banner').classList.remove('hidden'); document.getElementById('contact-form').reset(); window.scrollTo({top: 200, behavior: 'smooth'});">
+        <!-- Banner de error (inicialmente oculto) -->
+        <div id="form-error-banner" class="hidden mb-6 p-4 rounded-2xl bg-rose-50 border border-rose-300 text-rose-900 text-sm">
+          <div class="flex items-center gap-2 font-bold mb-1">
+            <span>⚠️</span>
+            <span>No se ha podido enviar el mensaje</span>
+          </div>
+          <p id="form-error-text" class="text-xs text-rose-800">
+            Hubo un problema al procesar el envío. Por favor, revisa tus datos o inténtalo de nuevo en unos minutos.
+          </p>
+        </div>
+
+        <form id="contact-form" class="space-y-5">
+          <input type="hidden" name="access_key" value="d0f60e50-d742-4e30-94a6-82ecf9670632" />
           <div>
             <label for="name" class="block text-xs font-bold uppercase tracking-wider text-emerald-900 mb-1.5">
               Nombre o alias <span class="text-emerald-600">*</span>
@@ -108,11 +120,11 @@ import Layout from '../layouts/Layout.astro';
               class="w-full px-4 py-3 rounded-xl border border-emerald-200/90 text-sm text-emerald-950 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 transition-all bg-white"
             >
               <option value="" disabled selected>Selecciona un motivo...</option>
-              <option value="duda">Duda técnica sobre un producto analizado</option>
-              <option value="sugerencia">Sugerir un nuevo producto o comparativa</option>
-              <option value="error">Notificar un error o enlace desactualizado</option>
-              <option value="legal">Consulta legal o derechos de privacidad</option>
-              <option value="otro">Otro asunto</option>
+              <option value="Duda técnica sobre un producto analizado">Duda técnica sobre un producto analizado</option>
+              <option value="Sugerir un nuevo producto o comparativa">Sugerir un nuevo producto o comparativa</option>
+              <option value="Notificar un error o enlace desactualizado">Notificar un error o enlace desactualizado</option>
+              <option value="Consulta legal o derechos de privacidad">Consulta legal o derechos de privacidad</option>
+              <option value="Otro asunto">Otro asunto</option>
             </select>
           </div>
 
@@ -145,15 +157,97 @@ import Layout from '../layouts/Layout.astro';
 
           <div class="pt-3">
             <button 
+              id="submit-btn"
               type="submit" 
-              class="w-full sm:w-auto px-8 py-3.5 rounded-xl bg-gradient-to-r from-emerald-700 to-teal-800 text-white font-bold text-sm shadow-md shadow-emerald-900/20 hover:scale-[1.01] active:scale-[0.99] transition-all flex items-center justify-center gap-2 cursor-pointer"
+              class="w-full sm:w-auto px-8 py-3.5 rounded-xl bg-gradient-to-r from-emerald-700 to-teal-800 text-white font-bold text-sm shadow-md shadow-emerald-900/20 hover:scale-[1.01] active:scale-[0.99] transition-all flex items-center justify-center gap-2 cursor-pointer disabled:pointer-events-none"
             >
-              <span>Enviar consulta al equipo</span>
-              <span>📨</span>
+              <span id="submit-btn-text">Enviar consulta al equipo</span>
+              <span id="submit-btn-icon">📨</span>
             </button>
           </div>
         </form>
       </div>
     </div>
   </div>
+
+  <script is:inline>
+    const form = document.getElementById('contact-form');
+    const submitBtn = document.getElementById('submit-btn');
+    const submitBtnText = document.getElementById('submit-btn-text');
+    const submitBtnIcon = document.getElementById('submit-btn-icon');
+    const successBanner = document.getElementById('form-success-banner');
+    const errorBanner = document.getElementById('form-error-banner');
+    const errorText = document.getElementById('form-error-text');
+
+    if (form && submitBtn) {
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        // 1. Deshabilitar botón temporalmente para evitar clics dobles
+        submitBtn.disabled = true;
+        const originalText = submitBtnText ? submitBtnText.textContent : 'Enviar consulta al equipo';
+        const originalIcon = submitBtnIcon ? submitBtnIcon.textContent : '📨';
+        
+        if (submitBtnText) submitBtnText.textContent = 'Enviando consulta...';
+        if (submitBtnIcon) submitBtnIcon.textContent = '⏳';
+        submitBtn.classList.add('opacity-75', 'cursor-not-allowed');
+
+        // Ocultar banners previos
+        if (successBanner) successBanner.classList.add('hidden');
+        if (errorBanner) errorBanner.classList.add('hidden');
+
+        // 2. Extraer datos recogidos
+        const formData = new FormData(form);
+        const payload = {
+          access_key: 'd0f60e50-d742-4e30-94a6-82ecf9670632',
+          name: formData.get('name'),
+          email: formData.get('email'),
+          subject: formData.get('subject'),
+          message: formData.get('message')
+        };
+
+        try {
+          // 3. Petición POST mediante fetch al endpoint de Web3Forms
+          const response = await fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json'
+            },
+            body: JSON.stringify(payload)
+          });
+
+          const result = await response.json();
+
+          if (response.ok && result.success) {
+            // Éxito: mostrar banner, resetear formulario y mantener en la misma página
+            if (successBanner) {
+              successBanner.classList.remove('hidden');
+              successBanner.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
+            form.reset();
+          } else {
+            throw new Error(result.message || 'No se pudo procesar la solicitud.');
+          }
+        } catch (err) {
+          console.error('Error al enviar formulario a Web3Forms:', err);
+          if (errorBanner) {
+            if (errorText) {
+              errorText.textContent = err.message || 'Hubo un problema al procesar el envío. Por favor, inténtalo de nuevo.';
+            }
+            errorBanner.classList.remove('hidden');
+            errorBanner.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          } else {
+            alert('No se pudo enviar el mensaje. Por favor, inténtalo de nuevo más tarde.');
+          }
+        } finally {
+          // Restaurar estado del botón
+          submitBtn.disabled = false;
+          if (submitBtnText) submitBtnText.textContent = originalText;
+          if (submitBtnIcon) submitBtnIcon.textContent = originalIcon;
+          submitBtn.classList.remove('opacity-75', 'cursor-not-allowed');
+        }
+      });
+    }
+  </script>
 </Layout>
